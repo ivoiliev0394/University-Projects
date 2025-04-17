@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <title>Упражнение 29/11/23</title> 
+    <style>
+        #wrapper, #clock {
+            border: 5px;
+            text-align: center;
+            background-color: azure;
+        }
+        #clock {
+            font-weight: bold;
+            color: aqua;
+            font-size: 80px;
+        margin: 0;
+    }
+        </style>
+    <script language="JavaScript">
+    function check()
+{
+document.bgColor="grey";
+var my_color="#00ff33";
+document.write("<br><p align='center'><span style='color:" + my_color + "'><b>Добре дошли!</b></span></p><br>")
+}
+//check()
+
+function color()
+{
+document.fgColor="green";
+document.write("<p align=center>Добре дошли!</p>")
+}
+color()
+function backcolor()
+{
+document.bgColor="grey";
+}
+backcolor()
+document.fgColor="lightgreen";
+var d=new Date();
+var month=new
+Array("Януари","Февруари","Март","Април","Май","Юни","Юли","Август","Септември","Октомври","Ноември","Декември");
+document.write("Дата е: "+d.getDate()+"."+month[d.getMonth()]+"."+d.getFullYear()+"<br>"+"Часът е: "+d.getHours()+":"+d.getMinutes());
+
+function newcolor(color)
+{
+alert("Избрали сте " + color)
+document.bgColor=color
+}
+
+document.write("<br>");
+
+var d = new Date();
+var a = new
+Array("Януари","Февруари","Март","Април","Май","Юни","Юли","Август",
+"Септември","Октомври","Ноември","Декември")
+document.write("<br>");
+var i = d.getMonth();
+document.write("Днес е: "+d.getDate()+" / "+a[i]+" / "+d.getFullYear());
+document.write("<br>");
+document.write("Времето е: "+d.getHours()+" : "+d.getMinutes()+" : "+d.getSeconds());
+if (d.getHours() >=12)
+{
+document.write("<br><font color=red>Закъснявате!</font>");
+}
+else if(d.getHours() <=12)
+{
+document.write("<br><font color=dark blue>Имате време.</font>");
+}
+
+var num=1;
+img1 = new Image ()
+img1.src="lake-pier-with-mountains-background_1033303-296.jpg"
+img2 = new Image ()
+img2.src = "long-time-exposure-reflection-aurora-wilder-mountains_884955-7599.avif"
+img3 = new Image ()
+img3.src = "painting-mountain-lake-with-mountain-background_188544-9126.jpg"
+function slideshow()
+{
+num=num+1
+if (num==4)
+{num=1}
+document.animal.src=eval("img"+num+".src")
+}
+
+function go(){
+window.timerId = window.setInterval(timer, 500);
+}
+function timer(){
+var clock = document.getElementById('clock');
+var date = new Date();
+clock.innerHTML = addZero(date.getHours())+':'+addZero(date.getMinutes())+':'+addZero(date.getSeconds());
+}
+function addZero(num){
+if(num <=9) return '0'+num;
+else return num;
+}
+    </script>
+</head>
+<body onload="go()">
+    
+    <p>Цвeта на фона се променя!</p>
+    <FORM >
+    <INPUT TYPE="button" VALUE="Син" onClick="newcolor('blue')">
+    <INPUT TYPE="button" VALUE="Розов" onClick="newcolor('pink')">
+    <INPUT TYPE="button" VALUE="Жълт" onClick="newcolor('yellow')">
+    <INPUT TYPE="button" VALUE="Зелен" onClick="newcolor('darkgreen')">
+    <INPUT TYPE="button" VALUE="Оранжев" onClick="newcolor('orange')">
+    <INPUT TYPE="button" VALUE=" Върнете се" onClick="newcolor('grey')">
+    </FORM>
+    <br><br>
+    <div id="wrapper" >
+        <p id="clock">
+        00:00:00
+        </p>
+        </div>
+        
+    <CENTER>
+        <IMG SRC="Go-sign.jpg.webp" NAME="animal" BORDER=0>
+        <p>
+        <A HREF="JavaScript:slideshow()">
+        Кликнете за да видите следващата картинка!</A>
+        </CENTER>
+</body>
+</html>

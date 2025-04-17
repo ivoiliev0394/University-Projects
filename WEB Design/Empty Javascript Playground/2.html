@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Изречение към таблица</title>
+</head>
+<body>
+
+  <label for="sentenceInput">Въведете изречение:</label>
+  <input type="text" id="sentenceInput">
+  <button onclick="processSentence()">Процесирай</button>
+
+  <h2>Думи в изречението:</h2>
+  <table id="wordTable" border="1">
+    <!-- Таблицата, в която ще се показват думите -->
+  </table>
+
+  <script>
+    function processSentence() {
+      // Вземаме въведеното изречение от полето за въвеждане
+      var sentence = document.getElementById("sentenceInput").value;
+
+      // Разделяме изречението на думи
+      var words = sentence.split(/\s+/);
+
+      // Намираме таблицата, в която ще показваме думите
+      var table = document.getElementById("wordTable");
+
+      // Изчистваме предишното съдържание на таблицата
+      table.innerHTML = "";
+
+      // Създаваме нов ред за всяка дума и го добавяме към таблицата
+      for (var i = 0; i < words.length; i++) {
+        var row = table.insertRow(i);
+        var cell = row.insertCell(0);
+        cell.innerHTML = words[i];
+      }
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colored Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .even {
+            color: green;
+            background-color:dimgray;
+        }
+
+        .odd {
+            background-color:dimgrey;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <script>
+        function createTable() {
+            var table = document.createElement('table');
+            var tbody = document.createElement('tbody');
+
+            for (var i = 1; i <= 30; i++) 
+            {
+                var row = tbody.insertRow();
+                var cell = row.insertCell();
+
+                cell.appendChild(document.createTextNode(i));
+
+                if (i % 2 === 0) {
+                    cell.className = 'even';
+                } else {
+                    cell.className = 'odd';
+                }
+            }
+
+            table.appendChild(tbody);
+            document.body.appendChild(table);
+        }
+        createTable();
+    </script>
+
+</body>
+</html>

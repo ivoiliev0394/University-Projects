@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Проверка на телефонни номера</title>
+    <script>
+        function checkPhoneNumbers() {
+            var phone1 = document.getElementById('phone1').value;
+            var phone2 = document.getElementById('phone2').value;
+
+            if (phone1 !== phone2) {
+                alert('Грешка: Телефонните номера не съвпадат.');
+            } else {
+                alert('Телефонните номера съвпадат.');
+            }
+        }
+    </script>
+</head>
+<body style="text-align: center; background-color: chartreuse; font-weight: bold;">
+    <br><br><br><br><br>
+    <label for="phone1">Телефонен номер 1:</label>
+    <input type="text" id="phone1" placeholder="Въведете телефонен номер">
+
+    <br><br>
+
+    <label for="phone2">Телефонен номер 2:</label>
+    <input type="text" id="phone2" placeholder="Въведете телефонен номер">
+
+    <br><br>
+
+    <button onclick="checkPhoneNumbers()">Check</button>
+</body>
+</html>

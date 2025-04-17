@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Java Five</title>
+    </head>
+    <body>
+        <script>
+            let date = new Date()
+            let months_arr = new Array("Януари","Февруари","Март","Април","Май","Юни","Юли","Август","Септември","Октомври","Ноември","Декември")
+
+            let day = date.getDate()
+            let month = date.getMonth()
+            month = months_arr[month]
+            let year = date.getFullYear()
+
+            let hours = date.getHours()
+            let minutes = date.getMinutes()
+            let seconds = date.getSeconds()
+
+            document.write("Днес е: " + day + "/" + month + "/" + year + "<br>")
+            document.write("Времето е: " + hours + ":" + minutes + ":" + seconds + "<br>")
+            
+            if(hours >= 12) document.write("<font color=red>Закъснявате!</font>")
+            else if(hours < 12) document.write("<font color=dark blue>Имате време.</font>");
+        </script>
+    </body>
+</html>

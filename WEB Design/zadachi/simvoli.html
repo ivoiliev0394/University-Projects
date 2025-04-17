@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Java Five</title>
+</head>
+
+<body>
+    <script language="JavaScript">
+        let a = new Array()
+        let br = 0;
+        let s = prompt("Въведете дума: ", "");
+        let simvol = prompt("Символът, който се търси в думата е: ", "");
+        for (i = 0; i < s.lenght; i++)
+            if (s.charAt(i) == simvol) {
+                br++
+                a.push(i + 1)
+            }
+        if (br != 0) {
+            document.write("Броят на срещаният символ в думата - " + s.bold() + "е:" + br + "<br>" + "на позиции: " + a.join(" , ").bold().fontcolor("blue") + "<br>" + "първата позиция е: " + (s.indexOf(simvol) + 1) + "<br>" + "последната позиция е:" + (s.lastIndexOf(simvol) + 1))
+        } else {
+            document.write("символът" + simvol.bold().italics() + "го няма в изречението" + s.bold().fontcolor("red"))
+        }
+    </script>
+</body>
+
+</html>

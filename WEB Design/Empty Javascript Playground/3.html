@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colored Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .even {
+            color: green;
+        }
+
+        .odd {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <script>
+        function createTable() {
+            var table = document.createElement('table');
+            var tbody = document.createElement('tbody');
+
+            for (var i = 1; i <= 30; i++) {
+                var row = tbody.insertRow();
+                var cell = row.insertCell();
+
+                cell.appendChild(document.createTextNode(i));
+
+                // Оцветяване на текста в зависимост от четна/нечетна колона
+                if (i % 2 === 0) {
+                    cell.className = 'even';
+                } else {
+                    cell.className = 'odd';
+                }
+
+                // Ако искате повече колони, можете да добавите още клетки в реда
+            }
+
+            table.appendChild(tbody);
+            document.body.appendChild(table);
+        }
+
+        createTable();
+    </script>
+
+</body>
+</html>

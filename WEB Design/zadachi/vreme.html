@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8">
+ <title>Java Five</title>
+ </head>
+ <body>
+ <script>
+ var d = new Date();
+ var a = new Array("Януари","Февруари","Март","Април","Май","Юни","Юли","Август",
+"Септември","Октомври","Ноември","Декември")
+ var i = d.getMonth();
+ document.write("Днес е: "+d.getDate()+" / "+a[i]+" / "+d.getFullYear());
+document.write("<br>");
+ document.write("Времето е: "+d.getHours()+" : "+d.getMinutes()+" : "+d.getSeconds());
+ if (d.getHours() >=12)
+ {
+document.write("<br><font color=red>Закъснявате!</font>");
+ }
+else if(d.getHours() <=12)
+ {
+document.write("<br><font color=dark blue>Имате време.</font>");
+ }
+</script>
+ </body>
+</html>

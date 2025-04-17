@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array Sum</title>
+</head>
+<body>
+
+    <script>
+        function calculateNegativeSum() {
+            var array = [];
+
+            for (var i = 0; i < 10; i++) {
+                var input = prompt("Въведете елемент #" + (i + 1));
+                var number = parseFloat(input);
+
+                if (!isNaN(number)) {
+                    array.push(number);
+                } else {
+                    alert("Моля, въведете валидно число.");
+                    i--;
+                }
+            }
+            var negativeSum = 0;
+            for (var j = 0; j < array.length; j++) {
+                if (array[j] < 0) {
+                    negativeSum += array[j];
+                }
+            }
+
+
+            alert("Сумата от отрицателните числа е: " + negativeSum);
+        }
+
+
+        calculateNegativeSum();
+    </script>
+
+</body>
+</html>

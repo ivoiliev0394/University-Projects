@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Проверка на телефонни номера</title>
+    <script>
+        function провериТелефонниНомера() {
+            // Вземане на стойностите от текстовите полета
+            var телефон1 = document.getElementById('телефон1').value;
+            var телефон2 = document.getElementById('телефон2').value;
+
+            // Проверка за равенство
+            if (телефон1 !== телефон2) {
+                // Извеждане на съобщение за грешка
+                alert('Грешка: Телефонните номера се различават.');
+            } else {
+                // Вашата логика, ако номерата са валидни или съвпадат
+                alert('Телефонните номера са валидни или съвпадат.');
+            }
+        }
+    </script>
+</head>
+<body>
+    <label for="телефон1">Телефонен номер 1:</label>
+    <input type="text" id="телефон1" placeholder="Въведете телефонен номер">
+
+    <br>
+
+    <label for="телефон2">Телефонен номер 2:</label>
+    <input type="text" id="телефон2" placeholder="Въведете телефонен номер">
+
+    <br>
+
+    <button onclick="провериТелефонниНомера()">Провери номерата</button>
+</body>
+</html>

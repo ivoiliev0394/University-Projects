@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Numbers</title>
+</head>
+<body>
+    <script>
+        
+        function generateRandomArray() {
+            const array = [];
+            for (let i = 0; i < 10; i++) {
+                array.push(Math.floor(Math.random() * 101)); // 0 до 101
+            }
+            return array;
+        }
+
+        function countOccurrences(array, number) {
+            let count = 0;
+            for (let i = 0; i < array.length; i++) {
+                if (array[i] === number) {
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        const randomArray = generateRandomArray();
+
+        const userNumber = parseInt(prompt("Въведете число:"));
+
+        const occurrencesCount = countOccurrences(randomArray, userNumber);
+
+        // Извеждане на масива и резултата
+        document.write("<p>Елементи на масива: " + randomArray.join(', ') + "</p>");
+        document.write("<p>Брой на елементите, равни на " + userNumber + ": " + occurrencesCount + "</p>");
+    </script>
+</body>
+</html>
