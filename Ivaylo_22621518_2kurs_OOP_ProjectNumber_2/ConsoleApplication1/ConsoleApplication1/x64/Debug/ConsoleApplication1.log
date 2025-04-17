@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(159,8): warning C4834: discarding return value of function with [[nodiscard]] attribute
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(178,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(467,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> F:\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

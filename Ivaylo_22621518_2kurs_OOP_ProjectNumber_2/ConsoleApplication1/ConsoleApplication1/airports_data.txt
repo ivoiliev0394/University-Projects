@@ -1,0 +1,1052 @@
+===================================================================================================
+Airport name: Sofia Flights Number: 200
+	Airline: SwissInternational Nationality Swiss Flights Count: 165
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+	Airline: Lufthansa Nationality German Flights Count: 101
+		Planes:
+		Brand: Airbus Flight Hours: 1200 Destination Count: 5
+		Brand: Boeing Flight Hours: 12500 Destination Count: 21
+		Brand: Bombardier Flight Hours: 850 Destination Count: 30
+		Brand: Boeing Flight Hours: 15000 Destination Count: 15
+		Brand: Cessna Flight Hours: 450 Destination Count: 7
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Bombardier Flight Hours: 6500 Destination Count: 29
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 0
+		Brand: Boeing Flight Hours: 13000 Destination Count: 26
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1400 Destination Count: 1
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Cessna Flight Hours: 2500 Destination Count: 4
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 14
+		Brand: Boeing Flight Hours: 15000 Destination Count: 11
+		Brand: Cessna Flight Hours: 5000 Destination Count: 30
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Boeing Flight Hours: 12000 Destination Count: 5
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 1
+		Destination: Amman Flights: 10
+		Destination: Anchorage Flights: 11
+		Destination: Anchorage Flights: 25
+		Destination: Barcelona Flights: 20
+		Destination: Brussels Flights: 30
+		Destination: Bucharest Flights: 6
+		Destination: Buenos Aires Flights: 11
+		Destination: Burgas Flights: 24
+		Destination: Burgas Flights: 21
+		Destination: Delhi Flights: 9
+		Destination: Helsinki Flights: 3
+		Destination: Jakarta Flights: 14
+		Destination: Kathmandu Flights: 23
+		Destination: Kuwait City Flights: 5
+		Destination: Lagos Flights: 28
+		Destination: Lagos Flights: 26
+		Destination: Lagos Flights: 30
+		Destination: Lisbon Flights: 22
+		Destination: Lisbon Flights: 16
+		Destination: Madrid Flights: 17
+		Destination: Manama Flights: 18
+		Destination: Manama Flights: 5
+		Destination: Miami Flights: 19
+		Destination: Miami Flights: 16
+		Destination: Munich Flights: 17
+		Destination: Nadi Flights: 12
+		Destination: Nadi Flights: 23
+		Destination: New York Flights: 12
+		Destination: Reykjavik Flights: 19
+		Destination: Saipan Flights: 6
+		Destination: St. Petersburg Flights: 12
+		Destination: Taipei Flights: 10
+		Destination: Tokyo Flights: 27
+		Destination: Varna Flights: 17
+		Destination: Vientiane Flights: 23
+		Destination: Vientiane Flights: 4
+		Destination: Warsaw Flights: 1
+		Destination: Warsaw Flights: 18
+		Destination: Zurich Flights: 11
+	Airline: SwissInternational Nationality Swiss Flights Count: 178
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+	Airline: Lufthansa Nationality German Flights Count: 496
+		Planes:
+		Brand: Airbus Flight Hours: 1200 Destination Count: 5
+		Brand: Boeing Flight Hours: 12500 Destination Count: 21
+		Brand: Bombardier Flight Hours: 850 Destination Count: 30
+		Brand: Boeing Flight Hours: 15000 Destination Count: 15
+		Brand: Cessna Flight Hours: 450 Destination Count: 7
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Bombardier Flight Hours: 6500 Destination Count: 29
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 0
+		Brand: Boeing Flight Hours: 13000 Destination Count: 26
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1400 Destination Count: 1
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Cessna Flight Hours: 2500 Destination Count: 4
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 14
+		Brand: Boeing Flight Hours: 15000 Destination Count: 11
+		Brand: Cessna Flight Hours: 5000 Destination Count: 30
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Boeing Flight Hours: 12000 Destination Count: 5
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 1
+		Destination: Amman Flights: 10
+		Destination: Anchorage Flights: 11
+		Destination: Anchorage Flights: 25
+		Destination: Barcelona Flights: 20
+		Destination: Brussels Flights: 30
+		Destination: Bucharest Flights: 6
+		Destination: Buenos Aires Flights: 11
+		Destination: Burgas Flights: 24
+		Destination: Burgas Flights: 21
+		Destination: Delhi Flights: 9
+		Destination: Helsinki Flights: 3
+		Destination: Jakarta Flights: 14
+		Destination: Kathmandu Flights: 23
+		Destination: Kuwait City Flights: 5
+		Destination: Lagos Flights: 28
+		Destination: Lagos Flights: 26
+		Destination: Lagos Flights: 30
+		Destination: Lisbon Flights: 22
+		Destination: Lisbon Flights: 16
+		Destination: Madrid Flights: 17
+		Destination: Manama Flights: 18
+		Destination: Manama Flights: 5
+		Destination: Miami Flights: 19
+		Destination: Miami Flights: 16
+		Destination: Munich Flights: 17
+		Destination: Nadi Flights: 12
+		Destination: Nadi Flights: 23
+		Destination: New York Flights: 12
+		Destination: Reykjavik Flights: 19
+		Destination: Saipan Flights: 6
+		Destination: St. Petersburg Flights: 12
+		Destination: Taipei Flights: 10
+		Destination: Tokyo Flights: 27
+		Destination: Varna Flights: 17
+		Destination: Vientiane Flights: 23
+		Destination: Vientiane Flights: 4
+		Destination: Warsaw Flights: 1
+		Destination: Warsaw Flights: 18
+		Destination: Zurich Flights: 11
+
+===================================================================================================
+Airport name: NewYorkJFK Flights Number: 220
+	Airline: BritishAirways Nationality British Flights Count: 334
+		Planes:
+		Brand: Embraer Flight Hours: 1600 Destination Count: 25
+		Brand: Airbus Flight Hours: 1200 Destination Count: 10
+		Brand: Boeing Flight Hours: 1600 Destination Count: 2
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 5
+		Brand: Embraer Flight Hours: 1700 Destination Count: 16
+		Brand: Airbus Flight Hours: 10500 Destination Count: 14
+		Brand: Embraer Flight Hours: 1700 Destination Count: 14
+		Brand: Airbus Flight Hours: 8500 Destination Count: 9
+		Brand: Embraer Flight Hours: 1700 Destination Count: 20
+		Brand: Boeing Flight Hours: 2000 Destination Count: 5
+		Brand: Bombardier Flight Hours: 850 Destination Count: 11
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 5
+		Brand: Bombardier Flight Hours: 850 Destination Count: 6
+		Brand: Bombardier Flight Hours: 850 Destination Count: 28
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 5
+		Brand: Cessna Flight Hours: 4000 Destination Count: 29
+		Brand: Airbus Flight Hours: 1200 Destination Count: 23
+		Brand: Boeing Flight Hours: 1600 Destination Count: 10
+		Brand: Cessna Flight Hours: 3000 Destination Count: 17
+		Brand: Airbus Flight Hours: 1100 Destination Count: 4
+
+
+		Destinations:
+		Destination: Accra Flights: 7
+		Destination: Algiers Flights: 10
+		Destination: Auckland Flights: 23
+		Destination: Auckland Flights: 21
+		Destination: Beijing Flights: 29
+		Destination: Bucharest Flights: 26
+		Destination: Bucharest Flights: 0
+		Destination: Cape Town Flights: 19
+		Destination: Doha Flights: 21
+		Destination: Hanoi Flights: 11
+		Destination: Ho Chi Minh City Flights: 3
+		Destination: Hong Kong Flights: 30
+		Destination: Islamabad Flights: 29
+		Destination: Jakarta Flights: 13
+		Destination: Jakarta Flights: 11
+		Destination: Johannesburg Flights: 9
+		Destination: Karachi Flights: 16
+		Destination: Kuala Lumpur Flights: 23
+		Destination: Lagos Flights: 23
+		Destination: Lisbon Flights: 15
+		Destination: London Flights: 30
+		Destination: London Flights: 11
+		Destination: Manama Flights: 28
+		Destination: Miami Flights: 19
+		Destination: Miami Flights: 25
+		Destination: Nadi Flights: 4
+		Destination: New York Flights: 15
+		Destination: Phnom Penh Flights: 29
+		Destination: Prague Flights: 6
+		Destination: Reykjavik Flights: 30
+		Destination: Reykjavik Flights: 24
+		Destination: Riga Flights: 14
+		Destination: Riga Flights: 19
+		Destination: Riga Flights: 14
+		Destination: San Francisco Flights: 15
+		Destination: Sydney Flights: 29
+		Destination: Taipei Flights: 17
+		Destination: Varna Flights: 1
+		Destination: Warsaw Flights: 26
+		Destination: Zurich Flights: 11
+	Airline: SwissInternational Nationality Swiss Flights Count: 464
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+	Airline: AirFrance Nationality French Flights Count: 482
+		Planes:
+		Brand: Embraer Flight Hours: 15000 Destination Count: 22
+		Brand: Boeing Flight Hours: 15000 Destination Count: 11
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 3
+		Brand: Boeing Flight Hours: 12500 Destination Count: 5
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 25
+		Brand: Bombardier Flight Hours: 850 Destination Count: 17
+		Brand: Embraer Flight Hours: 1700 Destination Count: 19
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 24
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 20
+		Brand: Embraer Flight Hours: 1900 Destination Count: 23
+		Brand: Cessna Flight Hours: 5000 Destination Count: 17
+		Brand: Bombardier Flight Hours: 850 Destination Count: 7
+		Brand: Embraer Flight Hours: 1800 Destination Count: 11
+		Brand: Embraer Flight Hours: 19000 Destination Count: 27
+		Brand: Embraer Flight Hours: 19000 Destination Count: 16
+		Brand: Cessna Flight Hours: 4000 Destination Count: 26
+		Brand: Boeing Flight Hours: 12500 Destination Count: 10
+		Brand: Cessna Flight Hours: 4000 Destination Count: 23
+		Brand: Cessna Flight Hours: 3000 Destination Count: 7
+		Brand: Bombardier Flight Hours: 8000 Destination Count: 10
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 6
+		Destination: Algiers Flights: 2
+		Destination: Amman Flights: 16
+		Destination: Apia Flights: 9
+		Destination: Bangkok Flights: 17
+		Destination: Bangkok Flights: 5
+		Destination: Barcelona Flights: 5
+		Destination: Beijing Flights: 16
+		Destination: Bucharest Flights: 27
+		Destination: Bucharest Flights: 1
+		Destination: Dhaka Flights: 19
+		Destination: Dubai Flights: 10
+		Destination: Gorna Oryahovitsa Flights: 14
+		Destination: Hong Kong Flights: 9
+		Destination: Hong Kong Flights: 22
+		Destination: Honiara Flights: 29
+		Destination: Johannesburg Flights: 19
+		Destination: Kuala Lumpur Flights: 5
+		Destination: Lagos Flights: 28
+		Destination: Madrid Flights: 17
+		Destination: Manama Flights: 3
+		Destination: Mexico City Flights: 29
+		Destination: New York Flights: 11
+		Destination: Nuuk Flights: 8
+		Destination: Phnom Penh Flights: 10
+		Destination: Phnom Penh Flights: 16
+		Destination: Port Moresby Flights: 22
+		Destination: Riyadh Flights: 6
+		Destination: Sao Paulo Flights: 16
+		Destination: Sao Paulo Flights: 15
+		Destination: Shanghai Flights: 12
+		Destination: Sofia Flights: 0
+		Destination: Sofia Flights: 3
+		Destination: St. Petersburg Flights: 24
+		Destination: St. Petersburg Flights: 28
+		Destination: Taipei Flights: 10
+		Destination: Tallinn Flights: 12
+		Destination: Vienna Flights: 13
+		Destination: Vladivostok Flights: 3
+		Destination: Yangon Flights: 0
+	Airline: SwissInternational Nationality Swiss Flights Count: 414
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+
+===================================================================================================
+Airport name: MoscowSheremetyevo Flights Number: 90
+	Airline: Lufthansa Nationality German Flights Count: 444
+		Planes:
+		Brand: Airbus Flight Hours: 1200 Destination Count: 5
+		Brand: Boeing Flight Hours: 12500 Destination Count: 21
+		Brand: Bombardier Flight Hours: 850 Destination Count: 30
+		Brand: Boeing Flight Hours: 15000 Destination Count: 15
+		Brand: Cessna Flight Hours: 450 Destination Count: 7
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Bombardier Flight Hours: 6500 Destination Count: 29
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 0
+		Brand: Boeing Flight Hours: 13000 Destination Count: 26
+		Brand: Airbus Flight Hours: 1300 Destination Count: 1
+		Brand: Boeing Flight Hours: 16000 Destination Count: 12
+		Brand: Airbus Flight Hours: 1400 Destination Count: 1
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Cessna Flight Hours: 2500 Destination Count: 4
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 14
+		Brand: Boeing Flight Hours: 15000 Destination Count: 11
+		Brand: Cessna Flight Hours: 5000 Destination Count: 30
+		Brand: Cessna Flight Hours: 4000 Destination Count: 12
+		Brand: Boeing Flight Hours: 12000 Destination Count: 5
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 1
+		Destination: Amman Flights: 10
+		Destination: Anchorage Flights: 11
+		Destination: Anchorage Flights: 25
+		Destination: Barcelona Flights: 20
+		Destination: Brussels Flights: 30
+		Destination: Bucharest Flights: 6
+		Destination: Buenos Aires Flights: 11
+		Destination: Burgas Flights: 24
+		Destination: Burgas Flights: 21
+		Destination: Delhi Flights: 9
+		Destination: Helsinki Flights: 3
+		Destination: Jakarta Flights: 14
+		Destination: Kathmandu Flights: 23
+		Destination: Kuwait City Flights: 5
+		Destination: Lagos Flights: 28
+		Destination: Lagos Flights: 26
+		Destination: Lagos Flights: 30
+		Destination: Lisbon Flights: 22
+		Destination: Lisbon Flights: 16
+		Destination: Madrid Flights: 17
+		Destination: Manama Flights: 18
+		Destination: Manama Flights: 5
+		Destination: Miami Flights: 19
+		Destination: Miami Flights: 16
+		Destination: Munich Flights: 17
+		Destination: Nadi Flights: 12
+		Destination: Nadi Flights: 23
+		Destination: New York Flights: 12
+		Destination: Reykjavik Flights: 19
+		Destination: Saipan Flights: 6
+		Destination: St. Petersburg Flights: 12
+		Destination: Taipei Flights: 10
+		Destination: Tokyo Flights: 27
+		Destination: Varna Flights: 17
+		Destination: Vientiane Flights: 23
+		Destination: Vientiane Flights: 4
+		Destination: Warsaw Flights: 1
+		Destination: Warsaw Flights: 18
+		Destination: Zurich Flights: 11
+	Airline: SwissInternational Nationality Swiss Flights Count: 477
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+	Airline: Qantas Nationality Australian Flights Count: 285
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 3
+		Brand: Boeing Flight Hours: 1600 Destination Count: 4
+		Brand: Bombardier Flight Hours: 850 Destination Count: 15
+		Brand: Bombardier Flight Hours: 6000 Destination Count: 8
+		Brand: Embraer Flight Hours: 19000 Destination Count: 25
+		Brand: Embraer Flight Hours: 1700 Destination Count: 20
+		Brand: Airbus Flight Hours: 1400 Destination Count: 17
+		Brand: Airbus Flight Hours: 1200 Destination Count: 12
+		Brand: Airbus Flight Hours: 9000 Destination Count: 19
+		Brand: Airbus Flight Hours: 1200 Destination Count: 15
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 1
+		Brand: Airbus Flight Hours: 8000 Destination Count: 5
+		Brand: Cessna Flight Hours: 450 Destination Count: 11
+		Brand: Cessna Flight Hours: 4000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 6500 Destination Count: 30
+		Brand: Cessna Flight Hours: 5000 Destination Count: 20
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1700 Destination Count: 29
+		Brand: Boeing Flight Hours: 1500 Destination Count: 18
+
+
+		Destinations:
+		Destination: Algiers Flights: 9
+		Destination: Anchorage Flights: 0
+		Destination: Anchorage Flights: 24
+		Destination: Barcelona Flights: 1
+		Destination: Cairo Flights: 0
+		Destination: Casablanca Flights: 24
+		Destination: Christchurch Flights: 21
+		Destination: Delhi Flights: 27
+		Destination: Dhaka Flights: 20
+		Destination: Dubai Flights: 20
+		Destination: Gorna Oryahovitsa Flights: 20
+		Destination: Helsinki Flights: 18
+		Destination: Hong Kong Flights: 21
+		Destination: Johannesburg Flights: 9
+		Destination: Kathmandu Flights: 18
+		Destination: Lagos Flights: 5
+		Destination: Lahore Flights: 22
+		Destination: Male Flights: 6
+		Destination: Manama Flights: 9
+		Destination: Melbourne Flights: 7
+		Destination: Munich Flights: 17
+		Destination: Paris Flights: 7
+		Destination: Port Moresby Flights: 16
+		Destination: Riyadh Flights: 28
+		Destination: Sofia Flights: 3
+		Destination: Stockholm Flights: 22
+		Destination: Stockholm Flights: 20
+		Destination: Taipei Flights: 28
+		Destination: Tallinn Flights: 9
+		Destination: Tallinn Flights: 15
+		Destination: Tokyo Flights: 7
+		Destination: Tokyo Flights: 6
+		Destination: Tokyo Flights: 26
+		Destination: Toronto Flights: 17
+		Destination: Vancouver Flights: 0
+		Destination: Vancouver Flights: 13
+		Destination: Vientiane Flights: 28
+		Destination: Vladivostok Flights: 28
+		Destination: Yangon Flights: 25
+		Destination: Zurich Flights: 23
+	Airline: SwissInternational Nationality Swiss Flights Count: 168
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+
+===================================================================================================
+Airport name: HongKongInternational Flights Number: 130
+	Airline: SwissInternational Nationality Swiss Flights Count: 382
+		Planes:
+		Brand: Cessna Flight Hours: 4000 Destination Count: 13
+		Brand: Cessna Flight Hours: 450 Destination Count: 17
+		Brand: Airbus Flight Hours: 8000 Destination Count: 0
+		Brand: Boeing Flight Hours: 12000 Destination Count: 15
+		Brand: Cessna Flight Hours: 2500 Destination Count: 25
+		Brand: Embraer Flight Hours: 19000 Destination Count: 15
+		Brand: Embraer Flight Hours: 15000 Destination Count: 18
+		Brand: Boeing Flight Hours: 1500 Destination Count: 29
+		Brand: Airbus Flight Hours: 1000 Destination Count: 6
+		Brand: Airbus Flight Hours: 10500 Destination Count: 24
+		Brand: Embraer Flight Hours: 1800 Destination Count: 20
+		Brand: Embraer Flight Hours: 18000 Destination Count: 12
+		Brand: Bombardier Flight Hours: 9500 Destination Count: 23
+		Brand: Embraer Flight Hours: 1700 Destination Count: 0
+		Brand: Cessna Flight Hours: 6000 Destination Count: 29
+		Brand: Cessna Flight Hours: 5000 Destination Count: 2
+		Brand: Boeing Flight Hours: 15000 Destination Count: 20
+		Brand: Cessna Flight Hours: 5000 Destination Count: 4
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 13
+		Brand: Boeing Flight Hours: 17000 Destination Count: 26
+
+
+		Destinations:
+		Destination: Abu Dhabi Flights: 3
+		Destination: Accra Flights: 9
+		Destination: Athens Flights: 30
+		Destination: Auckland Flights: 23
+		Destination: Barcelona Flights: 17
+		Destination: Cairo Flights: 16
+		Destination: Cairo Flights: 10
+		Destination: Cairo Flights: 21
+		Destination: Colombo Flights: 17
+		Destination: Dhaka Flights: 11
+		Destination: Helsinki Flights: 11
+		Destination: Hong Kong Flights: 16
+		Destination: Istanbul Flights: 26
+		Destination: Karachi Flights: 12
+		Destination: Kuala Lumpur Flights: 19
+		Destination: Kuala Lumpur Flights: 14
+		Destination: Lahore Flights: 15
+		Destination: Manama Flights: 22
+		Destination: Mexico City Flights: 8
+		Destination: Miami Flights: 24
+		Destination: Munich Flights: 27
+		Destination: Nadi Flights: 6
+		Destination: New York Flights: 26
+		Destination: New York Flights: 19
+		Destination: Nuuk Flights: 9
+		Destination: Nuuk Flights: 15
+		Destination: Papeete Flights: 11
+		Destination: Phnom Penh Flights: 11
+		Destination: Seoul Flights: 9
+		Destination: St. Petersburg Flights: 0
+		Destination: St. Petersburg Flights: 16
+		Destination: Tokyo Flights: 13
+		Destination: Vancouver Flights: 12
+		Destination: Varna Flights: 4
+		Destination: Varna Flights: 0
+		Destination: Wellington Flights: 23
+		Destination: Yangon Flights: 19
+		Destination: Yangon Flights: 19
+		Destination: Zurich Flights: 18
+		Destination: Zurich Flights: 30
+	Airline: AmericanAirlines Nationality American Flights Count: 214
+		Planes:
+		Brand: Boeing Flight Hours: 12500 Destination Count: 20
+		Brand: Airbus Flight Hours: 9500 Destination Count: 15
+		Brand: Boeing Flight Hours: 12500 Destination Count: 26
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 25
+		Brand: Boeing Flight Hours: 17000 Destination Count: 3
+		Brand: Airbus Flight Hours: 8500 Destination Count: 19
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 0
+		Brand: Embraer Flight Hours: 18000 Destination Count: 11
+		Brand: Boeing Flight Hours: 13000 Destination Count: 13
+		Brand: Embraer Flight Hours: 1600 Destination Count: 19
+		Brand: Boeing Flight Hours: 12000 Destination Count: 5
+		Brand: Cessna Flight Hours: 4000 Destination Count: 4
+		Brand: Cessna Flight Hours: 6000 Destination Count: 14
+		Brand: Boeing Flight Hours: 1600 Destination Count: 29
+		Brand: Embraer Flight Hours: 1700 Destination Count: 25
+		Brand: Airbus Flight Hours: 8000 Destination Count: 14
+		Brand: Embraer Flight Hours: 1700 Destination Count: 5
+		Brand: Embraer Flight Hours: 1700 Destination Count: 19
+		Brand: Airbus Flight Hours: 8500 Destination Count: 26
+		Brand: Boeing Flight Hours: 1500 Destination Count: 13
+
+
+		Destinations:
+		Destination: Algiers Flights: 15
+		Destination: Amsterdam Flights: 28
+		Destination: Anchorage Flights: 24
+		Destination: Anchorage Flights: 4
+		Destination: Anchorage Flights: 16
+		Destination: Burgas Flights: 7
+		Destination: Cape Town Flights: 19
+		Destination: Christchurch Flights: 28
+		Destination: Dubai Flights: 12
+		Destination: Gorna Oryahovitsa Flights: 20
+		Destination: Ho Chi Minh City Flights: 8
+		Destination: Honolulu Flights: 11
+		Destination: Islamabad Flights: 20
+		Destination: Istanbul Flights: 19
+		Destination: Kuala Lumpur Flights: 0
+		Destination: Lagos Flights: 5
+		Destination: Lagos Flights: 13
+		Destination: Lahore Flights: 4
+		Destination: Lahore Flights: 8
+		Destination: Los Angeles Flights: 11
+		Destination: Melbourne Flights: 8
+		Destination: Miami Flights: 6
+		Destination: New York Flights: 6
+		Destination: Phnom Penh Flights: 29
+		Destination: Prague Flights: 6
+		Destination: Prague Flights: 11
+		Destination: Reykjavik Flights: 25
+		Destination: Riyadh Flights: 13
+		Destination: Rome Flights: 29
+		Destination: San Francisco Flights: 0
+		Destination: Sao Paulo Flights: 0
+		Destination: Singapore Flights: 26
+		Destination: Taipei Flights: 17
+		Destination: Tokyo Flights: 9
+		Destination: Toronto Flights: 4
+		Destination: Varna Flights: 10
+		Destination: Vientiane Flights: 9
+		Destination: Vilnius Flights: 11
+		Destination: Vilnius Flights: 7
+		Destination: Zurich Flights: 2
+	Airline: AmericanAirlines Nationality American Flights Count: 228
+		Planes:
+		Brand: Boeing Flight Hours: 12500 Destination Count: 20
+		Brand: Airbus Flight Hours: 9500 Destination Count: 15
+		Brand: Boeing Flight Hours: 12500 Destination Count: 26
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 25
+		Brand: Boeing Flight Hours: 17000 Destination Count: 3
+		Brand: Airbus Flight Hours: 8500 Destination Count: 19
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 0
+		Brand: Embraer Flight Hours: 18000 Destination Count: 11
+		Brand: Boeing Flight Hours: 13000 Destination Count: 13
+		Brand: Embraer Flight Hours: 1600 Destination Count: 19
+		Brand: Boeing Flight Hours: 12000 Destination Count: 5
+		Brand: Cessna Flight Hours: 4000 Destination Count: 4
+		Brand: Cessna Flight Hours: 6000 Destination Count: 14
+		Brand: Boeing Flight Hours: 1600 Destination Count: 29
+		Brand: Embraer Flight Hours: 1700 Destination Count: 25
+		Brand: Airbus Flight Hours: 8000 Destination Count: 14
+		Brand: Embraer Flight Hours: 1700 Destination Count: 5
+		Brand: Embraer Flight Hours: 1700 Destination Count: 19
+		Brand: Airbus Flight Hours: 8500 Destination Count: 26
+		Brand: Boeing Flight Hours: 1500 Destination Count: 13
+
+
+		Destinations:
+		Destination: Algiers Flights: 15
+		Destination: Amsterdam Flights: 28
+		Destination: Anchorage Flights: 24
+		Destination: Anchorage Flights: 4
+		Destination: Anchorage Flights: 16
+		Destination: Burgas Flights: 7
+		Destination: Cape Town Flights: 19
+		Destination: Christchurch Flights: 28
+		Destination: Dubai Flights: 12
+		Destination: Gorna Oryahovitsa Flights: 20
+		Destination: Ho Chi Minh City Flights: 8
+		Destination: Honolulu Flights: 11
+		Destination: Islamabad Flights: 20
+		Destination: Istanbul Flights: 19
+		Destination: Kuala Lumpur Flights: 0
+		Destination: Lagos Flights: 5
+		Destination: Lagos Flights: 13
+		Destination: Lahore Flights: 4
+		Destination: Lahore Flights: 8
+		Destination: Los Angeles Flights: 11
+		Destination: Melbourne Flights: 8
+		Destination: Miami Flights: 6
+		Destination: New York Flights: 6
+		Destination: Phnom Penh Flights: 29
+		Destination: Prague Flights: 6
+		Destination: Prague Flights: 11
+		Destination: Reykjavik Flights: 25
+		Destination: Riyadh Flights: 13
+		Destination: Rome Flights: 29
+		Destination: San Francisco Flights: 0
+		Destination: Sao Paulo Flights: 0
+		Destination: Singapore Flights: 26
+		Destination: Taipei Flights: 17
+		Destination: Tokyo Flights: 9
+		Destination: Toronto Flights: 4
+		Destination: Varna Flights: 10
+		Destination: Vientiane Flights: 9
+		Destination: Vilnius Flights: 11
+		Destination: Vilnius Flights: 7
+		Destination: Zurich Flights: 2
+	Airline: BritishAirways Nationality British Flights Count: 461
+		Planes:
+		Brand: Embraer Flight Hours: 1600 Destination Count: 25
+		Brand: Airbus Flight Hours: 1200 Destination Count: 10
+		Brand: Boeing Flight Hours: 1600 Destination Count: 2
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 5
+		Brand: Embraer Flight Hours: 1700 Destination Count: 16
+		Brand: Airbus Flight Hours: 10500 Destination Count: 14
+		Brand: Embraer Flight Hours: 1700 Destination Count: 14
+		Brand: Airbus Flight Hours: 8500 Destination Count: 9
+		Brand: Embraer Flight Hours: 1700 Destination Count: 20
+		Brand: Boeing Flight Hours: 2000 Destination Count: 5
+		Brand: Bombardier Flight Hours: 850 Destination Count: 11
+		Brand: Bombardier Flight Hours: 9000 Destination Count: 5
+		Brand: Bombardier Flight Hours: 850 Destination Count: 6
+		Brand: Bombardier Flight Hours: 850 Destination Count: 28
+		Brand: Bombardier Flight Hours: 10000 Destination Count: 5
+		Brand: Cessna Flight Hours: 4000 Destination Count: 29
+		Brand: Airbus Flight Hours: 1200 Destination Count: 23
+		Brand: Boeing Flight Hours: 1600 Destination Count: 10
+		Brand: Cessna Flight Hours: 3000 Destination Count: 17
+		Brand: Airbus Flight Hours: 1100 Destination Count: 4
+
+
+		Destinations:
+		Destination: Accra Flights: 7
+		Destination: Algiers Flights: 10
+		Destination: Auckland Flights: 23
+		Destination: Auckland Flights: 21
+		Destination: Beijing Flights: 29
+		Destination: Bucharest Flights: 26
+		Destination: Bucharest Flights: 0
+		Destination: Cape Town Flights: 19
+		Destination: Doha Flights: 21
+		Destination: Hanoi Flights: 11
+		Destination: Ho Chi Minh City Flights: 3
+		Destination: Hong Kong Flights: 30
+		Destination: Islamabad Flights: 29
+		Destination: Jakarta Flights: 13
+		Destination: Jakarta Flights: 11
+		Destination: Johannesburg Flights: 9
+		Destination: Karachi Flights: 16
+		Destination: Kuala Lumpur Flights: 23
+		Destination: Lagos Flights: 23
+		Destination: Lisbon Flights: 15
+		Destination: London Flights: 30
+		Destination: London Flights: 11
+		Destination: Manama Flights: 28
+		Destination: Miami Flights: 19
+		Destination: Miami Flights: 25
+		Destination: Nadi Flights: 4
+		Destination: New York Flights: 15
+		Destination: Phnom Penh Flights: 29
+		Destination: Prague Flights: 6
+		Destination: Reykjavik Flights: 30
+		Destination: Reykjavik Flights: 24
+		Destination: Riga Flights: 14
+		Destination: Riga Flights: 19
+		Destination: Riga Flights: 14
+		Destination: San Francisco Flights: 15
+		Destination: Sydney Flights: 29
+		Destination: Taipei Flights: 17
+		Destination: Varna Flights: 1
+		Destination: Warsaw Flights: 26
+		Destination: Zurich Flights: 11
+

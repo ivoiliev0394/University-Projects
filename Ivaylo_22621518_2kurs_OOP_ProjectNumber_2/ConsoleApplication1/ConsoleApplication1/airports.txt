@@ -1,0 +1,4 @@
+Sofia 200
+NewYorkJFK	220
+MoscowSheremetyevo	90
+HongKongInternational	130

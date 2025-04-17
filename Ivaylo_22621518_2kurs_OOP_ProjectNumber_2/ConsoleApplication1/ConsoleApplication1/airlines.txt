@@ -1,0 +1,10 @@
+AirFrance French
+Lufthansa German
+BritishAirways British
+AmericanAirlines American
+CathayPacificHongKong Chinese
+JapanAirlines Japanese
+Qantas Australian
+BulgariaAir Bulgarian
+Aeroflot Russian
+SwissInternational Swiss

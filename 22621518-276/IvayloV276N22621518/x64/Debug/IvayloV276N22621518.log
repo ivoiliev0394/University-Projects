@@ -1,0 +1,23 @@
+﻿  Source.cpp
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(21,74): warning C4018: '>': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(255,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(306,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(326,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(331,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(391,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(502,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(515,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\Source.cpp(566,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IvayloV276N22621518.vcxproj -> \\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\22621518-276\IvayloV276N22621518\x64\Debug\IvayloV276N22621518.exe

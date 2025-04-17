@@ -1,0 +1,1561 @@
+Company 1
+Name: Trans Fleet Subject Of Activity: контейнерен транспорт Income: 671424.0
+  Ship 1
+	Name: RMS Sea Star 366 Country: Norway
+	Date Of Launch: 26-11-1957 Type: пътнически
+  Ship 2
+	Name: RMS Liberty 140 Country: Norway
+	Date Of Launch: 11-02-1995 Type: товарен
+  Ship 3
+	Name: SS Oceanic 661 Country: France
+	Date Of Launch: 16-06-1940 Type: товарен
+  Ship 4
+	Name: MS Victory 546 Country: Italy
+	Date Of Launch: 18-04-1932 Type: пътнически
+  Ship 5
+	Name: SS Sea Star 724 Country: Russia
+	Date Of Launch: 07-03-2000 Type: товарен
+  Ship 6
+	Name: HMS Oceanic 461 Country: Norway
+	Date Of Launch: 15-05-1994 Type: товарен
+  Ship 7
+	Name: RMS Endeavour 855 Country: USA
+	Date Of Launch: 06-11-2008 Type: товарен
+  Ship 8
+	Name: MS Poseidon 125 Country: UK
+	Date Of Launch: 06-08-1919 Type: пътнически
+  Ship 9
+	Name: HMS Oceanic 124 Country: Italy
+	Date Of Launch: 10-05-1900 Type: пътнически
+  Ship 10
+	Name: HMS Endeavour 535 Country: USA
+	Date Of Launch: 07-05-2002 Type: пътнически
+  Ship 11
+	Name: RMS Endeavour 880 Country: Germany
+	Date Of Launch: 25-10-2021 Type: товарен
+  Ship 12
+	Name: RMS Liberty 222 Country: Germany
+	Date Of Launch: 16-02-1976 Type: товарен
+  Ship 13
+	Name: HMS Endeavour 761 Country: Norway
+	Date Of Launch: 30-05-1972 Type: товарен
+  Ship 14
+	Name: HMS Neptune 310 Country: China
+	Date Of Launch: 22-11-2023 Type: товарен
+  Ship 15
+	Name: MV Neptune 419 Country: Japan
+	Date Of Launch: 11-04-1964 Type: товарен
+  Ship 16
+	Name: MV Endeavour 831 Country: China
+	Date Of Launch: 04-10-1949 Type: пътнически
+  Ship 17
+	Name: HMS Neptune 298 Country: Norway
+	Date Of Launch: 24-02-1985 Type: пътнически
+  Ship 18
+	Name: SS Sea Star 854 Country: Japan
+	Date Of Launch: 26-09-1987 Type: товарен
+  Ship 19
+	Name: RMS Liberty 302 Country: Spain
+	Date Of Launch: 21-12-1933 Type: пътнически
+  Ship 20
+	Name: MS Titan 239 Country: Germany
+	Date Of Launch: 30-10-1976 Type: пътнически
+  Ship 21
+	Name: HMS Neptune 350 Country: USA
+	Date Of Launch: 18-01-1929 Type: товарен
+  Ship 22
+	Name: SS Oceanic 827 Country: Norway
+	Date Of Launch: 15-02-1990 Type: товарен
+  Ship 23
+	Name: RMS Endeavour 267 Country: USA
+	Date Of Launch: 28-10-1966 Type: пътнически
+  Ship 24
+	Name: HMS Victory 816 Country: Italy
+	Date Of Launch: 08-05-1934 Type: товарен
+  Ship 25
+	Name: SS Titan 975 Country: USA
+	Date Of Launch: 01-04-1952 Type: товарен
+
+Company 2
+Name: Sea Lines Subject Of Activity: товарен превоз по море Income: 708742.0
+  Ship 1
+	Name: SS Neptune 529 Country: Germany
+	Date Of Launch: 28-11-1988 Type: товарен
+  Ship 2
+	Name: SS Sea Star 462 Country: UK
+	Date Of Launch: 01-10-1928 Type: пътнически
+  Ship 3
+	Name: HMS Liberty 553 Country: Russia
+	Date Of Launch: 14-07-1932 Type: пътнически
+  Ship 4
+	Name: HMS Poseidon 575 Country: Germany
+	Date Of Launch: 03-08-1993 Type: товарен
+  Ship 5
+	Name: RMS Titan 229 Country: Spain
+	Date Of Launch: 11-03-1908 Type: пътнически
+  Ship 6
+	Name: MS Neptune 194 Country: Russia
+	Date Of Launch: 04-10-2012 Type: товарен
+  Ship 7
+	Name: HMS Liberty 139 Country: Japan
+	Date Of Launch: 24-06-1987 Type: пътнически
+  Ship 8
+	Name: MS Victory 655 Country: Japan
+	Date Of Launch: 07-03-1958 Type: пътнически
+  Ship 9
+	Name: MV Liberty 426 Country: Norway
+	Date Of Launch: 11-03-2024 Type: пътнически
+  Ship 10
+	Name: MV Poseidon 438 Country: China
+	Date Of Launch: 22-05-2010 Type: пътнически
+  Ship 11
+	Name: MS Oceanic 953 Country: USA
+	Date Of Launch: 19-07-1967 Type: товарен
+  Ship 12
+	Name: MV Liberty 111 Country: UK
+	Date Of Launch: 30-06-1918 Type: товарен
+  Ship 13
+	Name: MV Neptune 359 Country: USA
+	Date Of Launch: 21-12-1972 Type: пътнически
+  Ship 14
+	Name: MS Endeavour 185 Country: Russia
+	Date Of Launch: 20-03-1929 Type: пътнически
+  Ship 15
+	Name: HMS Endeavour 135 Country: France
+	Date Of Launch: 05-04-1965 Type: пътнически
+  Ship 16
+	Name: MS Neptune 904 Country: Spain
+	Date Of Launch: 03-01-1971 Type: пътнически
+  Ship 17
+	Name: HMS Victory 551 Country: Norway
+	Date Of Launch: 22-04-1911 Type: пътнически
+  Ship 18
+	Name: SS Victory 700 Country: UK
+	Date Of Launch: 23-03-1917 Type: товарен
+  Ship 19
+	Name: RMS Liberty 248 Country: Russia
+	Date Of Launch: 18-03-1998 Type: товарен
+  Ship 20
+	Name: RMS Oceanic 392 Country: Russia
+	Date Of Launch: 08-07-1952 Type: пътнически
+  Ship 21
+	Name: RMS Oceanic 219 Country: Russia
+	Date Of Launch: 14-03-1903 Type: товарен
+  Ship 22
+	Name: MS Liberty 668 Country: Norway
+	Date Of Launch: 02-02-1925 Type: товарен
+  Ship 23
+	Name: RMS Victory 669 Country: China
+	Date Of Launch: 09-12-1961 Type: пътнически
+  Ship 24
+	Name: RMS Poseidon 927 Country: UK
+	Date Of Launch: 07-08-1959 Type: пътнически
+  Ship 25
+	Name: RMS Neptune 985 Country: France
+	Date Of Launch: 24-11-1915 Type: пътнически
+
+Company 3
+Name: Global Carriers Subject Of Activity: международен товарен превоз Income: 591709.0
+  Ship 1
+	Name: SS Endeavour 435 Country: China
+	Date Of Launch: 18-08-1914 Type: товарен
+  Ship 2
+	Name: HMS Neptune 801 Country: Spain
+	Date Of Launch: 30-01-1993 Type: товарен
+  Ship 3
+	Name: HMS Titan 990 Country: Spain
+	Date Of Launch: 05-11-1986 Type: товарен
+  Ship 4
+	Name: MS Oceanic 516 Country: Japan
+	Date Of Launch: 07-02-1915 Type: товарен
+  Ship 5
+	Name: MV Endeavour 567 Country: Russia
+	Date Of Launch: 09-04-1912 Type: пътнически
+  Ship 6
+	Name: MS Oceanic 138 Country: France
+	Date Of Launch: 07-01-1992 Type: товарен
+  Ship 7
+	Name: MV Liberty 702 Country: Norway
+	Date Of Launch: 31-12-1929 Type: пътнически
+  Ship 8
+	Name: SS Poseidon 150 Country: Germany
+	Date Of Launch: 24-06-1957 Type: пътнически
+  Ship 9
+	Name: MS Titan 274 Country: Germany
+	Date Of Launch: 05-11-1940 Type: пътнически
+  Ship 10
+	Name: HMS Liberty 684 Country: Spain
+	Date Of Launch: 04-07-1900 Type: товарен
+  Ship 11
+	Name: SS Oceanic 350 Country: USA
+	Date Of Launch: 15-10-1967 Type: товарен
+  Ship 12
+	Name: HMS Liberty 187 Country: Germany
+	Date Of Launch: 16-09-1984 Type: пътнически
+  Ship 13
+	Name: HMS Victory 420 Country: Russia
+	Date Of Launch: 15-11-2012 Type: пътнически
+  Ship 14
+	Name: RMS Oceanic 733 Country: Spain
+	Date Of Launch: 14-03-1936 Type: товарен
+  Ship 15
+	Name: MV Endeavour 111 Country: China
+	Date Of Launch: 16-07-2005 Type: товарен
+  Ship 16
+	Name: MV Titan 948 Country: Germany
+	Date Of Launch: 20-05-1952 Type: пътнически
+  Ship 17
+	Name: HMS Poseidon 200 Country: Germany
+	Date Of Launch: 22-03-1960 Type: пътнически
+  Ship 18
+	Name: MS Endeavour 756 Country: China
+	Date Of Launch: 01-10-1950 Type: товарен
+  Ship 19
+	Name: MS Sea Star 740 Country: USA
+	Date Of Launch: 23-06-1949 Type: товарен
+  Ship 20
+	Name: MV Liberty 426 Country: Norway
+	Date Of Launch: 11-03-2024 Type: пътнически
+  Ship 21
+	Name: MV Victory 588 Country: China
+	Date Of Launch: 10-06-1916 Type: пътнически
+  Ship 22
+	Name: MS Victory 157 Country: China
+	Date Of Launch: 21-10-1962 Type: товарен
+  Ship 23
+	Name: RMS Neptune 690 Country: Japan
+	Date Of Launch: 13-04-1949 Type: пътнически
+  Ship 24
+	Name: HMS Liberty 553 Country: Russia
+	Date Of Launch: 14-07-1932 Type: пътнически
+  Ship 25
+	Name: MV Victory 641 Country: Germany
+	Date Of Launch: 13-03-1952 Type: пътнически
+
+Company 4
+Name: Oceanic Enterprises Subject Of Activity: логистика на товари Income: 364397.0
+  Ship 1
+	Name: RMS Sea Star 341 Country: Germany
+	Date Of Launch: 18-07-1920 Type: товарен
+  Ship 2
+	Name: RMS Endeavour 880 Country: Germany
+	Date Of Launch: 25-10-2021 Type: товарен
+  Ship 3
+	Name: MV Titan 620 Country: Japan
+	Date Of Launch: 29-05-1961 Type: товарен
+  Ship 4
+	Name: RMS Sea Star 602 Country: Norway
+	Date Of Launch: 16-07-1902 Type: пътнически
+  Ship 5
+	Name: HMS Neptune 787 Country: USA
+	Date Of Launch: 15-08-1957 Type: пътнически
+  Ship 6
+	Name: MV Poseidon 769 Country: Japan
+	Date Of Launch: 25-10-1910 Type: пътнически
+  Ship 7
+	Name: HMS Oceanic 226 Country: USA
+	Date Of Launch: 01-06-1993 Type: пътнически
+  Ship 8
+	Name: HMS Titan 566 Country: Germany
+	Date Of Launch: 14-08-2017 Type: пътнически
+  Ship 9
+	Name: RMS Endeavour 244 Country: UK
+	Date Of Launch: 14-02-1929 Type: пътнически
+  Ship 10
+	Name: SS Oceanic 971 Country: Germany
+	Date Of Launch: 29-09-1960 Type: пътнически
+  Ship 11
+	Name: HMS Neptune 298 Country: Norway
+	Date Of Launch: 24-02-1985 Type: пътнически
+  Ship 12
+	Name: SS Poseidon 315 Country: USA
+	Date Of Launch: 26-11-1902 Type: товарен
+  Ship 13
+	Name: RMS Oceanic 766 Country: Spain
+	Date Of Launch: 21-01-2020 Type: пътнически
+  Ship 14
+	Name: HMS Sea Star 201 Country: Germany
+	Date Of Launch: 26-01-1956 Type: товарен
+  Ship 15
+	Name: SS Victory 473 Country: Japan
+	Date Of Launch: 04-09-1963 Type: товарен
+  Ship 16
+	Name: RMS Poseidon 630 Country: Spain
+	Date Of Launch: 25-06-1937 Type: пътнически
+  Ship 17
+	Name: HMS Neptune 298 Country: Norway
+	Date Of Launch: 24-02-1985 Type: пътнически
+  Ship 18
+	Name: MS Sea Star 667 Country: Russia
+	Date Of Launch: 09-09-1919 Type: пътнически
+  Ship 19
+	Name: RMS Neptune 152 Country: Italy
+	Date Of Launch: 28-02-1969 Type: пътнически
+  Ship 20
+	Name: RMS Victory 108 Country: Germany
+	Date Of Launch: 03-03-2005 Type: товарен
+  Ship 21
+	Name: RMS Endeavour 631 Country: China
+	Date Of Launch: 06-06-1913 Type: товарен
+  Ship 22
+	Name: HMS Poseidon 620 Country: UK
+	Date Of Launch: 08-10-2016 Type: товарен
+  Ship 23
+	Name: MV Oceanic 148 Country: Russia
+	Date Of Launch: 03-04-1987 Type: пътнически
+  Ship 24
+	Name: SS Neptune 425 Country: UK
+	Date Of Launch: 01-05-1962 Type: товарен
+  Ship 25
+	Name: MV Liberty 828 Country: Japan
+	Date Of Launch: 30-09-1946 Type: пътнически
+
+Company 5
+Name: Oceanic Shipping Subject Of Activity: транспорт на контейнери Income: 244048.0
+  Ship 1
+	Name: RMS Liberty 818 Country: Russia
+	Date Of Launch: 30-05-2021 Type: пътнически
+  Ship 2
+	Name: HMS Titan 858 Country: Japan
+	Date Of Launch: 08-07-1917 Type: товарен
+  Ship 3
+	Name: MV Oceanic 767 Country: Spain
+	Date Of Launch: 15-09-1974 Type: пътнически
+  Ship 4
+	Name: SS Liberty 441 Country: Russia
+	Date Of Launch: 06-05-1921 Type: товарен
+  Ship 5
+	Name: RMS Endeavour 631 Country: China
+	Date Of Launch: 06-06-1913 Type: товарен
+  Ship 6
+	Name: HMS Sea Star 698 Country: Russia
+	Date Of Launch: 08-05-2013 Type: пътнически
+  Ship 7
+	Name: MV Titan 370 Country: Germany
+	Date Of Launch: 15-12-1962 Type: пътнически
+  Ship 8
+	Name: SS Poseidon 619 Country: Spain
+	Date Of Launch: 11-02-2011 Type: пътнически
+  Ship 9
+	Name: SS Sea Star 556 Country: China
+	Date Of Launch: 22-06-1991 Type: товарен
+  Ship 10
+	Name: HMS Endeavour 517 Country: France
+	Date Of Launch: 16-10-2008 Type: товарен
+  Ship 11
+	Name: RMS Victory 186 Country: UK
+	Date Of Launch: 03-09-1978 Type: пътнически
+  Ship 12
+	Name: MS Victory 146 Country: Spain
+	Date Of Launch: 14-08-1904 Type: пътнически
+  Ship 13
+	Name: SS Poseidon 595 Country: Japan
+	Date Of Launch: 23-10-1971 Type: пътнически
+  Ship 14
+	Name: MS Victory 157 Country: China
+	Date Of Launch: 21-10-1962 Type: товарен
+  Ship 15
+	Name: HMS Neptune 642 Country: Russia
+	Date Of Launch: 01-03-1972 Type: пътнически
+  Ship 16
+	Name: MV Liberty 915 Country: UK
+	Date Of Launch: 25-12-1964 Type: пътнически
+  Ship 17
+	Name: MS Oceanic 829 Country: Italy
+	Date Of Launch: 08-08-1992 Type: пътнически
+  Ship 18
+	Name: RMS Poseidon 960 Country: Italy
+	Date Of Launch: 01-06-1990 Type: пътнически
+  Ship 19
+	Name: SS Neptune 290 Country: Spain
+	Date Of Launch: 21-05-1963 Type: пътнически
+  Ship 20
+	Name: MV Oceanic 231 Country: USA
+	Date Of Launch: 04-08-2010 Type: пътнически
+  Ship 21
+	Name: MV Neptune 918 Country: UK
+	Date Of Launch: 21-12-1953 Type: товарен
+  Ship 22
+	Name: HMS Liberty 981 Country: France
+	Date Of Launch: 15-09-1908 Type: пътнически
+  Ship 23
+	Name: MV Liberty 609 Country: Norway
+	Date Of Launch: 05-05-2010 Type: пътнически
+  Ship 24
+	Name: MS Victory 686 Country: Norway
+	Date Of Launch: 24-03-1954 Type: пътнически
+  Ship 25
+	Name: SS Titan 989 Country: Norway
+	Date Of Launch: 21-08-1900 Type: товарен
+
+Company 6
+Name: Oceanic Lines Subject Of Activity: доставка на стоки Income: 264734.0
+  Ship 1
+	Name: SS Endeavour 819 Country: France
+	Date Of Launch: 21-02-1985 Type: товарен
+  Ship 2
+	Name: HMS Neptune 350 Country: USA
+	Date Of Launch: 18-01-1929 Type: товарен
+  Ship 3
+	Name: MS Oceanic 762 Country: China
+	Date Of Launch: 05-10-1915 Type: товарен
+  Ship 4
+	Name: SS Neptune 314 Country: Norway
+	Date Of Launch: 14-09-2012 Type: пътнически
+  Ship 5
+	Name: MS Neptune 794 Country: Norway
+	Date Of Launch: 08-08-1983 Type: товарен
+  Ship 6
+	Name: MV Titan 934 Country: France
+	Date Of Launch: 14-10-1984 Type: товарен
+  Ship 7
+	Name: MV Liberty 604 Country: UK
+	Date Of Launch: 26-08-1900 Type: товарен
+  Ship 8
+	Name: HMS Poseidon 896 Country: Spain
+	Date Of Launch: 30-01-1923 Type: товарен
+  Ship 9
+	Name: MV Victory 914 Country: Russia
+	Date Of Launch: 11-11-1918 Type: товарен
+  Ship 10
+	Name: MV Titan 169 Country: China
+	Date Of Launch: 08-09-1992 Type: пътнически
+  Ship 11
+	Name: SS Victory 960 Country: UK
+	Date Of Launch: 08-05-1911 Type: товарен
+  Ship 12
+	Name: HMS Neptune 256 Country: Norway
+	Date Of Launch: 16-12-1937 Type: пътнически
+  Ship 13
+	Name: MV Victory 661 Country: UK
+	Date Of Launch: 22-11-1986 Type: пътнически
+  Ship 14
+	Name: MS Oceanic 522 Country: UK
+	Date Of Launch: 09-09-1977 Type: пътнически
+  Ship 15
+	Name: MV Neptune 918 Country: UK
+	Date Of Launch: 21-12-1953 Type: товарен
+  Ship 16
+	Name: MV Sea Star 176 Country: USA
+	Date Of Launch: 29-12-1919 Type: пътнически
+  Ship 17
+	Name: SS Sea Star 724 Country: Russia
+	Date Of Launch: 07-03-2000 Type: товарен
+  Ship 18
+	Name: RMS Victory 583 Country: Spain
+	Date Of Launch: 24-07-1927 Type: пътнически
+  Ship 19
+	Name: MV Oceanic 541 Country: Japan
+	Date Of Launch: 17-08-1939 Type: товарен
+  Ship 20
+	Name: SS Poseidon 195 Country: Russia
+	Date Of Launch: 26-03-1993 Type: товарен
+  Ship 21
+	Name: MS Oceanic 762 Country: China
+	Date Of Launch: 05-10-1915 Type: товарен
+  Ship 22
+	Name: MS Liberty 457 Country: Russia
+	Date Of Launch: 11-10-1983 Type: товарен
+  Ship 23
+	Name: MV Sea Star 774 Country: UK
+	Date Of Launch: 29-11-1915 Type: пътнически
+  Ship 24
+	Name: RMS Liberty 110 Country: Germany
+	Date Of Launch: 27-03-2013 Type: пътнически
+  Ship 25
+	Name: MS Endeavour 136 Country: Spain
+	Date Of Launch: 26-02-1967 Type: товарен
+
+Company 7
+Name: Sea Logistics Subject Of Activity: морски транспорт на товари Income: 748335.0
+  Ship 1
+	Name: SS Oceanic 661 Country: France
+	Date Of Launch: 16-06-1940 Type: товарен
+  Ship 2
+	Name: MV Poseidon 500 Country: Italy
+	Date Of Launch: 20-11-2008 Type: товарен
+  Ship 3
+	Name: MS Titan 275 Country: Spain
+	Date Of Launch: 20-09-1936 Type: товарен
+  Ship 4
+	Name: MS Liberty 537 Country: Germany
+	Date Of Launch: 23-05-1950 Type: пътнически
+  Ship 5
+	Name: HMS Poseidon 190 Country: Norway
+	Date Of Launch: 29-08-2016 Type: пътнически
+  Ship 6
+	Name: MS Oceanic 138 Country: France
+	Date Of Launch: 07-01-1992 Type: товарен
+  Ship 7
+	Name: HMS Neptune 350 Country: USA
+	Date Of Launch: 18-01-1929 Type: товарен
+  Ship 8
+	Name: MS Liberty 537 Country: Germany
+	Date Of Launch: 23-05-1950 Type: пътнически
+  Ship 9
+	Name: MV Victory 864 Country: China
+	Date Of Launch: 27-11-1913 Type: товарен
+  Ship 10
+	Name: HMS Endeavour 775 Country: Spain
+	Date Of Launch: 25-04-1938 Type: пътнически
+  Ship 11
+	Name: RMS Oceanic 191 Country: France
+	Date Of Launch: 07-06-1993 Type: товарен
+  Ship 12
+	Name: HMS Victory 174 Country: Norway
+	Date Of Launch: 08-05-1990 Type: пътнически
+  Ship 13
+	Name: MV Titan 556 Country: Spain
+	Date Of Launch: 19-12-1965 Type: товарен
+  Ship 14
+	Name: SS Victory 764 Country: China
+	Date Of Launch: 27-06-2015 Type: товарен
+  Ship 15
+	Name: HMS Endeavour 608 Country: Italy
+	Date Of Launch: 23-12-1907 Type: пътнически
+  Ship 16
+	Name: MS Endeavour 654 Country: Japan
+	Date Of Launch: 29-07-1913 Type: товарен
+  Ship 17
+	Name: HMS Poseidon 620 Country: UK
+	Date Of Launch: 08-10-2016 Type: товарен
+  Ship 18
+	Name: HMS Liberty 981 Country: France
+	Date Of Launch: 15-09-1908 Type: пътнически
+  Ship 19
+	Name: HMS Titan 990 Country: Spain
+	Date Of Launch: 05-11-1986 Type: товарен
+  Ship 20
+	Name: MS Titan 275 Country: Spain
+	Date Of Launch: 20-09-1936 Type: товарен
+  Ship 21
+	Name: MV Endeavour 714 Country: UK
+	Date Of Launch: 13-11-1919 Type: пътнически
+  Ship 22
+	Name: SS Endeavour 678 Country: Japan
+	Date Of Launch: 13-01-1950 Type: товарен
+  Ship 23
+	Name: MV Poseidon 769 Country: Japan
+	Date Of Launch: 25-10-1910 Type: пътнически
+  Ship 24
+	Name: MV Liberty 530 Country: UK
+	Date Of Launch: 18-07-1942 Type: пътнически
+  Ship 25
+	Name: SS Victory 473 Country: Japan
+	Date Of Launch: 04-09-1963 Type: товарен
+
+Company 8
+Name: Trans Carriers Subject Of Activity: превоз на стоки Income: 838397.0
+  Ship 1
+	Name: HMS Titan 954 Country: Norway
+	Date Of Launch: 15-12-1926 Type: товарен
+  Ship 2
+	Name: SS Neptune 427 Country: China
+	Date Of Launch: 16-06-1934 Type: пътнически
+  Ship 3
+	Name: MV Neptune 847 Country: USA
+	Date Of Launch: 05-06-1914 Type: товарен
+  Ship 4
+	Name: MS Neptune 618 Country: Norway
+	Date Of Launch: 29-10-2021 Type: пътнически
+  Ship 5
+	Name: RMS Liberty 321 Country: USA
+	Date Of Launch: 02-03-1953 Type: товарен
+  Ship 6
+	Name: HMS Endeavour 778 Country: Japan
+	Date Of Launch: 20-02-1957 Type: товарен
+  Ship 7
+	Name: RMS Sea Star 825 Country: Spain
+	Date Of Launch: 04-11-1901 Type: товарен
+  Ship 8
+	Name: MV Liberty 381 Country: Japan
+	Date Of Launch: 12-11-2010 Type: товарен
+  Ship 9
+	Name: MS Endeavour 213 Country: France
+	Date Of Launch: 15-12-1999 Type: пътнически
+  Ship 10
+	Name: SS Endeavour 819 Country: France
+	Date Of Launch: 21-02-1985 Type: товарен
+  Ship 11
+	Name: SS Titan 314 Country: Russia
+	Date Of Launch: 16-05-1997 Type: пътнически
+  Ship 12
+	Name: HMS Oceanic 461 Country: Norway
+	Date Of Launch: 15-05-1994 Type: товарен
+  Ship 13
+	Name: SS Victory 901 Country: Norway
+	Date Of Launch: 15-03-1951 Type: пътнически
+  Ship 14
+	Name: MV Neptune 164 Country: Norway
+	Date Of Launch: 03-01-1925 Type: товарен
+  Ship 15
+	Name: MS Endeavour 206 Country: Norway
+	Date Of Launch: 28-08-1916 Type: товарен
+  Ship 16
+	Name: HMS Endeavour 535 Country: USA
+	Date Of Launch: 07-05-2002 Type: пътнически
+  Ship 17
+	Name: MV Oceanic 861 Country: Spain
+	Date Of Launch: 13-11-1974 Type: товарен
+  Ship 18
+	Name: SS Liberty 990 Country: UK
+	Date Of Launch: 21-12-2002 Type: пътнически
+  Ship 19
+	Name: RMS Sea Star 834 Country: Germany
+	Date Of Launch: 23-09-1991 Type: товарен
+  Ship 20
+	Name: MV Titan 753 Country: China
+	Date Of Launch: 26-03-1994 Type: пътнически
+  Ship 21
+	Name: HMS Liberty 139 Country: Japan
+	Date Of Launch: 24-06-1987 Type: пътнически
+  Ship 22
+	Name: RMS Oceanic 191 Country: France
+	Date Of Launch: 07-06-1993 Type: товарен
+  Ship 23
+	Name: RMS Sea Star 825 Country: Spain
+	Date Of Launch: 04-11-1901 Type: товарен
+  Ship 24
+	Name: SS Titan 975 Country: USA
+	Date Of Launch: 01-04-1952 Type: товарен
+  Ship 25
+	Name: SS Victory 169 Country: Spain
+	Date Of Launch: 22-03-2004 Type: пътнически
+
+Company 9
+Name: Oceanic Logistics Subject Of Activity: логистични решения за товари Income: 195595.0
+  Ship 1
+	Name: SS Oceanic 316 Country: Germany
+	Date Of Launch: 08-01-1992 Type: пътнически
+  Ship 2
+	Name: SS Titan 282 Country: UK
+	Date Of Launch: 25-08-1955 Type: пътнически
+  Ship 3
+	Name: MS Victory 146 Country: Spain
+	Date Of Launch: 14-08-1904 Type: пътнически
+  Ship 4
+	Name: SS Victory 160 Country: Norway
+	Date Of Launch: 17-05-1992 Type: товарен
+  Ship 5
+	Name: MS Sea Star 201 Country: France
+	Date Of Launch: 13-12-1990 Type: товарен
+  Ship 6
+	Name: HMS Titan 833 Country: Japan
+	Date Of Launch: 21-03-1919 Type: товарен
+  Ship 7
+	Name: HMS Liberty 600 Country: Spain
+	Date Of Launch: 04-03-1966 Type: товарен
+  Ship 8
+	Name: MV Endeavour 668 Country: USA
+	Date Of Launch: 02-05-1995 Type: товарен
+  Ship 9
+	Name: MV Poseidon 500 Country: Italy
+	Date Of Launch: 20-11-2008 Type: товарен
+  Ship 10
+	Name: SS Titan 965 Country: China
+	Date Of Launch: 21-07-1945 Type: товарен
+  Ship 11
+	Name: SS Endeavour 217 Country: Spain
+	Date Of Launch: 03-09-1987 Type: товарен
+  Ship 12
+	Name: RMS Titan 736 Country: Norway
+	Date Of Launch: 06-11-1960 Type: товарен
+  Ship 13
+	Name: MS Titan 360 Country: Italy
+	Date Of Launch: 05-11-1939 Type: пътнически
+  Ship 14
+	Name: SS Poseidon 150 Country: Germany
+	Date Of Launch: 24-06-1957 Type: пътнически
+  Ship 15
+	Name: MS Neptune 510 Country: UK
+	Date Of Launch: 29-07-1991 Type: пътнически
+  Ship 16
+	Name: MV Poseidon 821 Country: China
+	Date Of Launch: 07-09-1938 Type: товарен
+  Ship 17
+	Name: RMS Titan 229 Country: Spain
+	Date Of Launch: 11-03-1908 Type: пътнически
+  Ship 18
+	Name: RMS Neptune 985 Country: France
+	Date Of Launch: 24-11-1915 Type: пътнически
+  Ship 19
+	Name: RMS Poseidon 151 Country: USA
+	Date Of Launch: 27-09-1931 Type: товарен
+  Ship 20
+	Name: MS Liberty 668 Country: Norway
+	Date Of Launch: 02-02-1925 Type: товарен
+  Ship 21
+	Name: SS Victory 493 Country: China
+	Date Of Launch: 16-10-2011 Type: товарен
+  Ship 22
+	Name: RMS Endeavour 938 Country: Germany
+	Date Of Launch: 09-12-1987 Type: пътнически
+  Ship 23
+	Name: MS Victory 206 Country: Norway
+	Date Of Launch: 13-11-2006 Type: пътнически
+  Ship 24
+	Name: SS Victory 960 Country: UK
+	Date Of Launch: 08-05-1911 Type: товарен
+  Ship 25
+	Name: RMS Sea Star 825 Country: Spain
+	Date Of Launch: 04-11-1901 Type: товарен
+
+Company 10
+Name: Oceanic Carriers Subject Of Activity: глобален пренос на товари Income: 910627.0
+  Ship 1
+	Name: MS Endeavour 185 Country: Russia
+	Date Of Launch: 20-03-1929 Type: пътнически
+  Ship 2
+	Name: RMS Endeavour 631 Country: China
+	Date Of Launch: 06-06-1913 Type: товарен
+  Ship 3
+	Name: MV Poseidon 449 Country: USA
+	Date Of Launch: 15-08-2005 Type: пътнически
+  Ship 4
+	Name: MV Oceanic 148 Country: Russia
+	Date Of Launch: 03-04-1987 Type: пътнически
+  Ship 5
+	Name: SS Titan 280 Country: USA
+	Date Of Launch: 06-09-1908 Type: пътнически
+  Ship 6
+	Name: MS Oceanic 611 Country: Germany
+	Date Of Launch: 27-02-2009 Type: пътнически
+  Ship 7
+	Name: RMS Victory 235 Country: France
+	Date Of Launch: 01-11-1987 Type: товарен
+  Ship 8
+	Name: HMS Endeavour 357 Country: Germany
+	Date Of Launch: 12-05-1955 Type: пътнически
+  Ship 9
+	Name: SS Victory 481 Country: Norway
+	Date Of Launch: 09-01-2022 Type: товарен
+  Ship 10
+	Name: RMS Victory 767 Country: Italy
+	Date Of Launch: 24-03-1943 Type: пътнически
+  Ship 11
+	Name: HMS Sea Star 698 Country: Russia
+	Date Of Launch: 08-05-2013 Type: пътнически
+  Ship 12
+	Name: MV Poseidon 821 Country: China
+	Date Of Launch: 07-09-1938 Type: товарен
+  Ship 13
+	Name: MS Endeavour 213 Country: France
+	Date Of Launch: 15-12-1999 Type: пътнически
+  Ship 14
+	Name: SS Endeavour 435 Country: China
+	Date Of Launch: 18-08-1914 Type: товарен
+  Ship 15
+	Name: HMS Neptune 531 Country: USA
+	Date Of Launch: 27-01-1909 Type: пътнически
+  Ship 16
+	Name: HMS Poseidon 430 Country: USA
+	Date Of Launch: 29-12-1939 Type: товарен
+  Ship 17
+	Name: RMS Victory 796 Country: Russia
+	Date Of Launch: 25-05-2019 Type: товарен
+  Ship 18
+	Name: HMS Titan 954 Country: Norway
+	Date Of Launch: 15-12-1926 Type: товарен
+  Ship 19
+	Name: SS Titan 686 Country: Russia
+	Date Of Launch: 15-02-2002 Type: товарен
+  Ship 20
+	Name: MS Oceanic 829 Country: Italy
+	Date Of Launch: 08-08-1992 Type: пътнически
+  Ship 21
+	Name: RMS Liberty 967 Country: Russia
+	Date Of Launch: 11-05-2006 Type: товарен
+  Ship 22
+	Name: MV Titan 126 Country: UK
+	Date Of Launch: 28-05-1971 Type: товарен
+  Ship 23
+	Name: RMS Liberty 229 Country: Russia
+	Date Of Launch: 01-05-1900 Type: товарен
+  Ship 24
+	Name: MV Poseidon 421 Country: China
+	Date Of Launch: 22-05-2010 Type: товарен
+  Ship 25
+	Name: RMS Oceanic 217 Country: Germany
+	Date Of Launch: 09-03-1912 Type: товарен
+
+Company 11
+Name: Global Lines Subject Of Activity: превоз на контейнери Income: 960262.0
+  Ship 1
+	Name: HMS Titan 487 Country: France
+	Date Of Launch: 01-05-1972 Type: товарен
+  Ship 2
+	Name: HMS Neptune 373 Country: France
+	Date Of Launch: 30-03-2001 Type: товарен
+  Ship 3
+	Name: SS Neptune 810 Country: France
+	Date Of Launch: 02-02-1910 Type: пътнически
+  Ship 4
+	Name: MV Oceanic 938 Country: Spain
+	Date Of Launch: 15-05-1940 Type: пътнически
+  Ship 5
+	Name: SS Endeavour 734 Country: UK
+	Date Of Launch: 01-08-2019 Type: товарен
+  Ship 6
+	Name: MS Poseidon 125 Country: UK
+	Date Of Launch: 06-08-1919 Type: пътнически
+  Ship 7
+	Name: RMS Liberty 320 Country: Italy
+	Date Of Launch: 08-10-2015 Type: пътнически
+  Ship 8
+	Name: RMS Liberty 320 Country: Italy
+	Date Of Launch: 08-10-2015 Type: пътнически
+  Ship 9
+	Name: MS Oceanic 611 Country: Germany
+	Date Of Launch: 27-02-2009 Type: пътнически
+  Ship 10
+	Name: MS Endeavour 537 Country: Italy
+	Date Of Launch: 17-11-2014 Type: пътнически
+  Ship 11
+	Name: HMS Titan 308 Country: USA
+	Date Of Launch: 11-12-1919 Type: товарен
+  Ship 12
+	Name: HMS Liberty 528 Country: USA
+	Date Of Launch: 24-09-1984 Type: пътнически
+  Ship 13
+	Name: SS Poseidon 150 Country: Germany
+	Date Of Launch: 24-06-1957 Type: пътнически
+  Ship 14
+	Name: SS Endeavour 439 Country: UK
+	Date Of Launch: 27-02-1990 Type: товарен
+  Ship 15
+	Name: MS Victory 974 Country: USA
+	Date Of Launch: 12-10-1939 Type: товарен
+  Ship 16
+	Name: MV Victory 754 Country: UK
+	Date Of Launch: 24-12-1956 Type: пътнически
+  Ship 17
+	Name: SS Victory 386 Country: Spain
+	Date Of Launch: 01-12-1967 Type: пътнически
+  Ship 18
+	Name: MS Titan 148 Country: Russia
+	Date Of Launch: 29-01-1919 Type: товарен
+  Ship 19
+	Name: MS Endeavour 213 Country: France
+	Date Of Launch: 15-12-1999 Type: пътнически
+  Ship 20
+	Name: SS Liberty 319 Country: Russia
+	Date Of Launch: 02-01-1982 Type: товарен
+  Ship 21
+	Name: MV Titan 948 Country: Germany
+	Date Of Launch: 20-05-1952 Type: пътнически
+  Ship 22
+	Name: MS Liberty 918 Country: Russia
+	Date Of Launch: 15-03-1962 Type: товарен
+  Ship 23
+	Name: MV Liberty 225 Country: USA
+	Date Of Launch: 01-11-2017 Type: пътнически
+  Ship 24
+	Name: RMS Endeavour 599 Country: Italy
+	Date Of Launch: 11-12-1998 Type: пътнически
+  Ship 25
+	Name: SS Sea Star 462 Country: UK
+	Date Of Launch: 01-10-1928 Type: пътнически
+
+Company 12
+Name: Global Carriers Subject Of Activity: международна доставка на стоки Income: 774156.0
+  Ship 1
+	Name: MV Neptune 918 Country: UK
+	Date Of Launch: 21-12-1953 Type: товарен
+  Ship 2
+	Name: HMS Victory 307 Country: Japan
+	Date Of Launch: 17-11-1994 Type: товарен
+  Ship 3
+	Name: HMS Titan 270 Country: Japan
+	Date Of Launch: 13-01-1974 Type: товарен
+  Ship 4
+	Name: HMS Sea Star 698 Country: Russia
+	Date Of Launch: 08-05-2013 Type: пътнически
+  Ship 5
+	Name: MS Oceanic 611 Country: Germany
+	Date Of Launch: 27-02-2009 Type: пътнически
+  Ship 6
+	Name: MS Titan 997 Country: Norway
+	Date Of Launch: 21-08-1965 Type: пътнически
+  Ship 7
+	Name: HMS Poseidon 200 Country: Germany
+	Date Of Launch: 22-03-1960 Type: пътнически
+  Ship 8
+	Name: MV Liberty 426 Country: Norway
+	Date Of Launch: 11-03-2024 Type: пътнически
+  Ship 9
+	Name: HMS Liberty 139 Country: Japan
+	Date Of Launch: 24-06-1987 Type: пътнически
+  Ship 10
+	Name: MV Neptune 330 Country: USA
+	Date Of Launch: 21-09-1944 Type: товарен
+  Ship 11
+	Name: HMS Liberty 862 Country: Japan
+	Date Of Launch: 11-12-1998 Type: пътнически
+  Ship 12
+	Name: HMS Liberty 600 Country: Spain
+	Date Of Launch: 04-03-1966 Type: товарен
+  Ship 13
+	Name: HMS Endeavour 861 Country: UK
+	Date Of Launch: 07-02-1966 Type: товарен
+  Ship 14
+	Name: MV Victory 388 Country: Italy
+	Date Of Launch: 26-06-1981 Type: товарен
+  Ship 15
+	Name: MV Sea Star 403 Country: USA
+	Date Of Launch: 28-12-1919 Type: товарен
+  Ship 16
+	Name: MV Poseidon 821 Country: China
+	Date Of Launch: 07-09-1938 Type: товарен
+  Ship 17
+	Name: SS Sea Star 197 Country: Spain
+	Date Of Launch: 27-09-1910 Type: пътнически
+  Ship 18
+	Name: RMS Sea Star 294 Country: Norway
+	Date Of Launch: 04-07-1935 Type: пътнически
+  Ship 19
+	Name: MS Oceanic 953 Country: USA
+	Date Of Launch: 19-07-1967 Type: товарен
+  Ship 20
+	Name: MS Titan 175 Country: China
+	Date Of Launch: 24-07-1954 Type: пътнически
+  Ship 21
+	Name: MV Victory 168 Country: UK
+	Date Of Launch: 30-11-1961 Type: пътнически
+  Ship 22
+	Name: MV Liberty 102 Country: Germany
+	Date Of Launch: 27-11-1978 Type: пътнически
+  Ship 23
+	Name: HMS Neptune 379 Country: UK
+	Date Of Launch: 05-02-1926 Type: товарен
+  Ship 24
+	Name: MS Neptune 651 Country: Spain
+	Date Of Launch: 29-01-1998 Type: товарен
+  Ship 25
+	Name: SS Victory 160 Country: Norway
+	Date Of Launch: 17-05-1992 Type: товарен
+
+Company 13
+Name: Blue Carriers Subject Of Activity: корабен товарен транспорт Income: 690953.0
+  Ship 1
+	Name: SS Endeavour 131 Country: Russia
+	Date Of Launch: 15-11-1984 Type: пътнически
+  Ship 2
+	Name: MS Neptune 904 Country: Spain
+	Date Of Launch: 03-01-1971 Type: пътнически
+  Ship 3
+	Name: SS Sea Star 278 Country: France
+	Date Of Launch: 09-09-1962 Type: товарен
+  Ship 4
+	Name: HMS Liberty 539 Country: Japan
+	Date Of Launch: 11-09-1940 Type: товарен
+  Ship 5
+	Name: MS Titan 755 Country: Norway
+	Date Of Launch: 04-05-2020 Type: пътнически
+  Ship 6
+	Name: RMS Poseidon 708 Country: Spain
+	Date Of Launch: 19-02-1970 Type: товарен
+  Ship 7
+	Name: MV Endeavour 714 Country: UK
+	Date Of Launch: 13-11-1919 Type: пътнически
+  Ship 8
+	Name: HMS Oceanic 723 Country: UK
+	Date Of Launch: 22-03-1959 Type: пътнически
+  Ship 9
+	Name: MV Oceanic 762 Country: France
+	Date Of Launch: 04-07-1922 Type: пътнически
+  Ship 10
+	Name: HMS Neptune 859 Country: Japan
+	Date Of Launch: 16-04-1962 Type: товарен
+  Ship 11
+	Name: HMS Liberty 223 Country: Japan
+	Date Of Launch: 15-11-1939 Type: пътнически
+  Ship 12
+	Name: RMS Oceanic 926 Country: France
+	Date Of Launch: 09-04-1953 Type: пътнически
+  Ship 13
+	Name: MS Endeavour 401 Country: USA
+	Date Of Launch: 14-02-1920 Type: товарен
+  Ship 14
+	Name: SS Oceanic 838 Country: UK
+	Date Of Launch: 20-10-1967 Type: товарен
+  Ship 15
+	Name: RMS Titan 314 Country: Italy
+	Date Of Launch: 25-11-1991 Type: пътнически
+  Ship 16
+	Name: MV Victory 864 Country: China
+	Date Of Launch: 27-11-1913 Type: товарен
+  Ship 17
+	Name: MV Poseidon 741 Country: USA
+	Date Of Launch: 29-05-2021 Type: товарен
+  Ship 18
+	Name: MV Liberty 604 Country: UK
+	Date Of Launch: 26-08-1900 Type: товарен
+  Ship 19
+	Name: SS Sea Star 556 Country: China
+	Date Of Launch: 22-06-1991 Type: товарен
+  Ship 20
+	Name: RMS Liberty 119 Country: Russia
+	Date Of Launch: 14-03-1982 Type: товарен
+  Ship 21
+	Name: HMS Neptune 505 Country: China
+	Date Of Launch: 28-01-1936 Type: пътнически
+  Ship 22
+	Name: HMS Endeavour 608 Country: Italy
+	Date Of Launch: 23-12-1907 Type: пътнически
+  Ship 23
+	Name: RMS Oceanic 402 Country: Russia
+	Date Of Launch: 16-10-1931 Type: товарен
+  Ship 24
+	Name: MV Liberty 408 Country: Germany
+	Date Of Launch: 03-12-1916 Type: пътнически
+  Ship 25
+	Name: RMS Victory 890 Country: UK
+	Date Of Launch: 06-08-1999 Type: пътнически
+
+Company 14
+Name: Blue Lines Subject Of Activity: превоз на палетизирани товари Income: 535431.0
+  Ship 1
+	Name: SS Titan 584 Country: France
+	Date Of Launch: 22-07-1953 Type: пътнически
+  Ship 2
+	Name: HMS Sea Star 299 Country: Spain
+	Date Of Launch: 06-11-2002 Type: пътнически
+  Ship 3
+	Name: SS Liberty 319 Country: Russia
+	Date Of Launch: 02-01-1982 Type: товарен
+  Ship 4
+	Name: RMS Titan 229 Country: Spain
+	Date Of Launch: 11-03-1908 Type: пътнически
+  Ship 5
+	Name: MV Poseidon 421 Country: Spain
+	Date Of Launch: 30-07-1926 Type: пътнически
+  Ship 6
+	Name: HMS Oceanic 350 Country: UK
+	Date Of Launch: 24-11-1948 Type: товарен
+  Ship 7
+	Name: MS Endeavour 784 Country: Norway
+	Date Of Launch: 11-07-2011 Type: пътнически
+  Ship 8
+	Name: MV Liberty 408 Country: Germany
+	Date Of Launch: 03-12-1916 Type: пътнически
+  Ship 9
+	Name: MS Poseidon 466 Country: Russia
+	Date Of Launch: 08-01-2024 Type: пътнически
+  Ship 10
+	Name: RMS Titan 383 Country: Spain
+	Date Of Launch: 17-06-1931 Type: пътнически
+  Ship 11
+	Name: RMS Victory 796 Country: Russia
+	Date Of Launch: 25-05-2019 Type: товарен
+  Ship 12
+	Name: RMS Poseidon 542 Country: USA
+	Date Of Launch: 28-03-1985 Type: товарен
+  Ship 13
+	Name: SS Sea Star 556 Country: China
+	Date Of Launch: 22-06-1991 Type: товарен
+  Ship 14
+	Name: HMS Liberty 528 Country: USA
+	Date Of Launch: 24-09-1984 Type: пътнически
+  Ship 15
+	Name: MS Poseidon 886 Country: Italy
+	Date Of Launch: 07-08-1996 Type: товарен
+  Ship 16
+	Name: MV Victory 168 Country: UK
+	Date Of Launch: 30-11-1961 Type: пътнически
+  Ship 17
+	Name: RMS Victory 108 Country: Germany
+	Date Of Launch: 03-03-2005 Type: товарен
+  Ship 18
+	Name: RMS Liberty 844 Country: Japan
+	Date Of Launch: 16-01-2001 Type: пътнически
+  Ship 19
+	Name: MV Victory 388 Country: Italy
+	Date Of Launch: 26-06-1981 Type: товарен
+  Ship 20
+	Name: MV Liberty 915 Country: UK
+	Date Of Launch: 06-09-1959 Type: пътнически
+  Ship 21
+	Name: MS Neptune 330 Country: UK
+	Date Of Launch: 04-05-1902 Type: товарен
+  Ship 22
+	Name: SS Poseidon 195 Country: Russia
+	Date Of Launch: 26-03-1993 Type: товарен
+  Ship 23
+	Name: MV Neptune 440 Country: Norway
+	Date Of Launch: 20-07-1974 Type: пътнически
+  Ship 24
+	Name: MS Victory 157 Country: China
+	Date Of Launch: 21-10-1962 Type: товарен
+  Ship 25
+	Name: MV Endeavour 662 Country: USA
+	Date Of Launch: 19-02-2008 Type: пътнически
+
+Company 15
+Name: Global Enterprises Subject Of Activity: складова и логистична дейност Income: 151969.0
+  Ship 1
+	Name: HMS Titan 882 Country: Japan
+	Date Of Launch: 19-06-2011 Type: пътнически
+  Ship 2
+	Name: MV Poseidon 421 Country: China
+	Date Of Launch: 22-05-2010 Type: товарен
+  Ship 3
+	Name: MV Oceanic 767 Country: Spain
+	Date Of Launch: 15-09-1974 Type: пътнически
+  Ship 4
+	Name: HMS Neptune 174 Country: China
+	Date Of Launch: 18-10-1972 Type: пътнически
+  Ship 5
+	Name: SS Sea Star 587 Country: France
+	Date Of Launch: 11-05-1933 Type: товарен
+  Ship 6
+	Name: RMS Liberty 844 Country: Japan
+	Date Of Launch: 16-01-2001 Type: пътнически
+  Ship 7
+	Name: SS Victory 764 Country: China
+	Date Of Launch: 27-06-2015 Type: товарен
+  Ship 8
+	Name: HMS Titan 579 Country: UK
+	Date Of Launch: 14-05-1995 Type: товарен
+  Ship 9
+	Name: RMS Liberty 818 Country: Russia
+	Date Of Launch: 30-05-2021 Type: пътнически
+  Ship 10
+	Name: HMS Liberty 139 Country: Japan
+	Date Of Launch: 24-06-1987 Type: пътнически
+  Ship 11
+	Name: SS Titan 282 Country: UK
+	Date Of Launch: 25-08-1955 Type: пътнически
+  Ship 12
+	Name: HMS Endeavour 778 Country: Japan
+	Date Of Launch: 20-02-1957 Type: товарен
+  Ship 13
+	Name: RMS Oceanic 926 Country: France
+	Date Of Launch: 09-04-1953 Type: пътнически
+  Ship 14
+	Name: RMS Victory 890 Country: UK
+	Date Of Launch: 06-08-1999 Type: пътнически
+  Ship 15
+	Name: MV Oceanic 541 Country: Japan
+	Date Of Launch: 17-08-1939 Type: товарен
+  Ship 16
+	Name: MS Poseidon 195 Country: France
+	Date Of Launch: 01-04-1952 Type: пътнически
+  Ship 17
+	Name: HMS Poseidon 845 Country: USA
+	Date Of Launch: 21-06-1927 Type: пътнически
+  Ship 18
+	Name: RMS Endeavour 244 Country: UK
+	Date Of Launch: 14-02-1929 Type: пътнически
+  Ship 19
+	Name: HMS Endeavour 447 Country: Norway
+	Date Of Launch: 06-11-1907 Type: товарен
+  Ship 20
+	Name: MV Oceanic 767 Country: Spain
+	Date Of Launch: 15-09-1974 Type: пътнически
+  Ship 21
+	Name: RMS Liberty 967 Country: Russia
+	Date Of Launch: 11-05-2006 Type: товарен
+  Ship 22
+	Name: SS Titan 280 Country: USA
+	Date Of Launch: 06-09-1908 Type: пътнически
+  Ship 23
+	Name: MV Sea Star 479 Country: China
+	Date Of Launch: 05-06-1977 Type: товарен
+  Ship 24
+	Name: HMS Victory 420 Country: Russia
+	Date Of Launch: 15-11-2012 Type: пътнически
+  Ship 25
+	Name: SS Neptune 694 Country: Italy
+	Date Of Launch: 15-10-1986 Type: товарен
+
+Company 16
+Name: Maritime Logistics Subject Of Activity: морска спедиция на стоки Income: 139956.0
+  Ship 1
+	Name: RMS Liberty 959 Country: USA
+	Date Of Launch: 12-03-1969 Type: товарен
+  Ship 2
+	Name: MS Liberty 918 Country: Russia
+	Date Of Launch: 15-03-1962 Type: товарен
+  Ship 3
+	Name: MV Oceanic 861 Country: Spain
+	Date Of Launch: 13-11-1974 Type: товарен
+  Ship 4
+	Name: MS Endeavour 636 Country: Germany
+	Date Of Launch: 31-05-1965 Type: товарен
+  Ship 5
+	Name: HMS Oceanic 461 Country: Norway
+	Date Of Launch: 15-05-1994 Type: товарен
+  Ship 6
+	Name: MS Oceanic 520 Country: UK
+	Date Of Launch: 25-08-1971 Type: товарен
+  Ship 7
+	Name: SS Poseidon 195 Country: Russia
+	Date Of Launch: 26-03-1993 Type: товарен
+  Ship 8
+	Name: MS Oceanic 520 Country: UK
+	Date Of Launch: 25-08-1971 Type: товарен
+  Ship 9
+	Name: RMS Liberty 193 Country: France
+	Date Of Launch: 20-08-1995 Type: товарен
+  Ship 10
+	Name: MS Neptune 194 Country: Russia
+	Date Of Launch: 04-10-2012 Type: товарен
+  Ship 11
+	Name: MS Neptune 484 Country: Russia
+	Date Of Launch: 27-01-1947 Type: товарен
+  Ship 12
+	Name: RMS Endeavour 938 Country: Germany
+	Date Of Launch: 09-12-1987 Type: пътнически
+  Ship 13
+	Name: MS Endeavour 537 Country: Italy
+	Date Of Launch: 17-11-2014 Type: пътнически
+  Ship 14
+	Name: SS Victory 476 Country: France
+	Date Of Launch: 22-04-1970 Type: пътнически
+  Ship 15
+	Name: HMS Titan 990 Country: Spain
+	Date Of Launch: 05-11-1986 Type: товарен
+  Ship 16
+	Name: RMS Sea Star 937 Country: USA
+	Date Of Launch: 03-03-1994 Type: пътнически
+  Ship 17
+	Name: SS Liberty 441 Country: Russia
+	Date Of Launch: 06-05-1921 Type: товарен
+  Ship 18
+	Name: RMS Oceanic 733 Country: Spain
+	Date Of Launch: 14-03-1936 Type: товарен
+  Ship 19
+	Name: MV Victory 214 Country: USA
+	Date Of Launch: 02-10-2008 Type: пътнически
+  Ship 20
+	Name: RMS Neptune 513 Country: USA
+	Date Of Launch: 30-12-1902 Type: товарен
+  Ship 21
+	Name: MV Poseidon 216 Country: France
+	Date Of Launch: 22-04-2007 Type: пътнически
+  Ship 22
+	Name: HMS Oceanic 124 Country: Italy
+	Date Of Launch: 10-05-1900 Type: пътнически
+  Ship 23
+	Name: MV Victory 641 Country: Germany
+	Date Of Launch: 13-03-1952 Type: пътнически
+  Ship 24
+	Name: HMS Neptune 298 Country: Norway
+	Date Of Launch: 24-02-1985 Type: пътнически
+  Ship 25
+	Name: HMS Oceanic 679 Country: France
+	Date Of Launch: 15-03-1942 Type: товарен
+
+Company 17
+Name: Global Lines Subject Of Activity: специализиран товарен транспорт Income: 494210.0
+  Ship 1
+	Name: RMS Liberty 193 Country: France
+	Date Of Launch: 20-08-1995 Type: товарен
+  Ship 2
+	Name: MV Poseidon 911 Country: USA
+	Date Of Launch: 12-11-2004 Type: товарен
+  Ship 3
+	Name: RMS Liberty 511 Country: Spain
+	Date Of Launch: 11-09-1909 Type: пътнически
+  Ship 4
+	Name: HMS Liberty 684 Country: Spain
+	Date Of Launch: 04-07-1900 Type: товарен
+  Ship 5
+	Name: SS Liberty 441 Country: Russia
+	Date Of Launch: 06-05-1921 Type: товарен
+  Ship 6
+	Name: MV Poseidon 821 Country: China
+	Date Of Launch: 07-09-1938 Type: товарен
+  Ship 7
+	Name: RMS Sea Star 231 Country: Japan
+	Date Of Launch: 06-11-1994 Type: товарен
+  Ship 8
+	Name: MS Neptune 834 Country: Germany
+	Date Of Launch: 02-06-1919 Type: товарен
+  Ship 9
+	Name: RMS Oceanic 926 Country: France
+	Date Of Launch: 09-04-1953 Type: пътнически
+  Ship 10
+	Name: MS Titan 360 Country: Italy
+	Date Of Launch: 05-11-1939 Type: пътнически
+  Ship 11
+	Name: RMS Victory 108 Country: Germany
+	Date Of Launch: 03-03-2005 Type: товарен
+  Ship 12
+	Name: SS Titan 282 Country: UK
+	Date Of Launch: 25-08-1955 Type: пътнически
+  Ship 13
+	Name: MV Oceanic 762 Country: France
+	Date Of Launch: 04-07-1922 Type: пътнически
+  Ship 14
+	Name: HMS Oceanic 679 Country: France
+	Date Of Launch: 15-03-1942 Type: товарен
+  Ship 15
+	Name: SS Oceanic 316 Country: Germany
+	Date Of Launch: 08-01-1992 Type: пътнически
+  Ship 16
+	Name: HMS Neptune 256 Country: Norway
+	Date Of Launch: 16-12-1937 Type: пътнически
+  Ship 17
+	Name: HMS Victory 158 Country: UK
+	Date Of Launch: 10-09-2018 Type: товарен
+  Ship 18
+	Name: MV Poseidon 350 Country: Japan
+	Date Of Launch: 03-06-2016 Type: товарен
+  Ship 19
+	Name: HMS Oceanic 679 Country: France
+	Date Of Launch: 15-03-1942 Type: товарен
+  Ship 20
+	Name: HMS Oceanic 589 Country: Japan
+	Date Of Launch: 30-08-1956 Type: товарен
+  Ship 21
+	Name: SS Oceanic 837 Country: UK
+	Date Of Launch: 04-05-1926 Type: товарен
+  Ship 22
+	Name: RMS Endeavour 468 Country: UK
+	Date Of Launch: 25-06-1980 Type: пътнически
+  Ship 23
+	Name: SS Victory 481 Country: Norway
+	Date Of Launch: 09-01-2022 Type: товарен
+  Ship 24
+	Name: RMS Liberty 302 Country: Spain
+	Date Of Launch: 21-12-1933 Type: пътнически
+  Ship 25
+	Name: MV Oceanic 230 Country: Russia
+	Date Of Launch: 13-01-1931 Type: пътнически
+
+Company 18
+Name: Global Enterprises Subject Of Activity: дистрибуция на товари Income: 455026.0
+  Ship 1
+	Name: MS Liberty 846 Country: Russia
+	Date Of Launch: 30-01-1973 Type: пътнически
+  Ship 2
+	Name: HMS Oceanic 231 Country: Germany
+	Date Of Launch: 20-07-1943 Type: товарен
+  Ship 3
+	Name: SS Oceanic 556 Country: Spain
+	Date Of Launch: 10-02-1944 Type: пътнически
+  Ship 4
+	Name: HMS Titan 990 Country: Spain
+	Date Of Launch: 05-11-1986 Type: товарен
+  Ship 5
+	Name: SS Victory 994 Country: UK
+	Date Of Launch: 09-02-1902 Type: пътнически
+  Ship 6
+	Name: MV Liberty 426 Country: Norway
+	Date Of Launch: 11-03-2024 Type: пътнически
+  Ship 7
+	Name: MS Victory 686 Country: Norway
+	Date Of Launch: 24-03-1954 Type: пътнически
+  Ship 8
+	Name: MV Poseidon 821 Country: China
+	Date Of Launch: 07-09-1938 Type: товарен
+  Ship 9
+	Name: RMS Endeavour 599 Country: Italy
+	Date Of Launch: 11-12-1998 Type: пътнически
+  Ship 10
+	Name: HMS Poseidon 200 Country: Germany
+	Date Of Launch: 22-03-1960 Type: пътнически
+  Ship 11
+	Name: MS Neptune 298 Country: Japan
+	Date Of Launch: 01-11-2009 Type: товарен
+  Ship 12
+	Name: SS Liberty 383 Country: USA
+	Date Of Launch: 18-10-1990 Type: товарен
+  Ship 13
+	Name: HMS Neptune 642 Country: Russia
+	Date Of Launch: 01-03-1972 Type: пътнически
+  Ship 14
+	Name: SS Neptune 455 Country: USA
+	Date Of Launch: 01-07-1950 Type: пътнически
+  Ship 15
+	Name: SS Liberty 918 Country: Spain
+	Date Of Launch: 26-01-1903 Type: пътнически
+  Ship 16
+	Name: RMS Endeavour 107 Country: Russia
+	Date Of Launch: 07-04-1938 Type: пътнически
+  Ship 17
+	Name: MS Neptune 497 Country: Italy
+	Date Of Launch: 15-04-2018 Type: товарен
+  Ship 18
+	Name: MS Sea Star 201 Country: France
+	Date Of Launch: 13-12-1990 Type: товарен
+  Ship 19
+	Name: SS Liberty 383 Country: USA
+	Date Of Launch: 18-10-1990 Type: товарен
+  Ship 20
+	Name: SS Neptune 455 Country: USA
+	Date Of Launch: 01-07-1950 Type: пътнически
+  Ship 21
+	Name: MS Titan 360 Country: Italy
+	Date Of Launch: 05-11-1939 Type: пътнически
+  Ship 22
+	Name: SS Titan 129 Country: Germany
+	Date Of Launch: 16-09-1975 Type: пътнически
+  Ship 23
+	Name: HMS Oceanic 646 Country: China
+	Date Of Launch: 01-09-1980 Type: товарен
+  Ship 24
+	Name: MS Neptune 194 Country: Russia
+	Date Of Launch: 04-10-2012 Type: товарен
+  Ship 25
+	Name: RMS Poseidon 679 Country: Norway
+	Date Of Launch: 07-11-2023 Type: товарен
+
+Company 19
+Name: Sea Logistics Subject Of Activity: управление на вериги за доставки Income: 744324.0
+  Ship 1
+	Name: MV Liberty 426 Country: Norway
+	Date Of Launch: 11-03-2024 Type: пътнически
+  Ship 2
+	Name: RMS Liberty 302 Country: Spain
+	Date Of Launch: 21-12-1933 Type: пътнически
+  Ship 3
+	Name: MV Oceanic 762 Country: France
+	Date Of Launch: 04-07-1922 Type: пътнически
+  Ship 4
+	Name: RMS Neptune 455 Country: Italy
+	Date Of Launch: 02-12-1901 Type: товарен
+  Ship 5
+	Name: RMS Sea Star 778 Country: Japan
+	Date Of Launch: 19-07-2010 Type: пътнически
+  Ship 6
+	Name: HMS Titan 990 Country: Spain
+	Date Of Launch: 05-11-1986 Type: товарен
+  Ship 7
+	Name: SS Endeavour 734 Country: UK
+	Date Of Launch: 01-08-2019 Type: товарен
+  Ship 8
+	Name: SS Liberty 368 Country: Italy
+	Date Of Launch: 01-03-2000 Type: товарен
+  Ship 9
+	Name: RMS Poseidon 141 Country: Norway
+	Date Of Launch: 05-12-2002 Type: пътнически
+  Ship 10
+	Name: MV Victory 864 Country: China
+	Date Of Launch: 27-11-1913 Type: товарен
+  Ship 11
+	Name: RMS Victory 796 Country: Russia
+	Date Of Launch: 25-05-2019 Type: товарен
+  Ship 12
+	Name: HMS Liberty 862 Country: Japan
+	Date Of Launch: 11-12-1998 Type: пътнически
+  Ship 13
+	Name: SS Neptune 861 Country: Japan
+	Date Of Launch: 27-09-1986 Type: товарен
+  Ship 14
+	Name: MS Titan 998 Country: USA
+	Date Of Launch: 15-09-1985 Type: товарен
+  Ship 15
+	Name: MV Poseidon 421 Country: Spain
+	Date Of Launch: 30-07-1926 Type: пътнически
+  Ship 16
+	Name: SS Oceanic 355 Country: Spain
+	Date Of Launch: 31-10-1904 Type: товарен
+  Ship 17
+	Name: HMS Titan 954 Country: Norway
+	Date Of Launch: 15-12-1926 Type: товарен
+  Ship 18
+	Name: RMS Endeavour 821 Country: UK
+	Date Of Launch: 10-04-2004 Type: товарен
+  Ship 19
+	Name: HMS Oceanic 461 Country: Norway
+	Date Of Launch: 15-05-1994 Type: товарен
+  Ship 20
+	Name: HMS Oceanic 461 Country: Norway
+	Date Of Launch: 15-05-1994 Type: товарен
+  Ship 21
+	Name: SS Endeavour 217 Country: Spain
+	Date Of Launch: 03-09-1987 Type: товарен
+  Ship 22
+	Name: SS Titan 751 Country: Norway
+	Date Of Launch: 22-09-1968 Type: товарен
+  Ship 23
+	Name: HMS Endeavour 861 Country: UK
+	Date Of Launch: 07-02-1966 Type: товарен
+  Ship 24
+	Name: MS Titan 997 Country: Norway
+	Date Of Launch: 21-08-1965 Type: пътнически
+  Ship 25
+	Name: MS Victory 519 Country: Norway
+	Date Of Launch: 06-08-1922 Type: пътнически
+
+Company 20
+Name: Blue Lines Subject Of Activity: спедиция на товари Income: 588800.0
+  Ship 1
+	Name: HMS Neptune 787 Country: USA
+	Date Of Launch: 15-08-1957 Type: пътнически
+  Ship 2
+	Name: MV Liberty 225 Country: USA
+	Date Of Launch: 01-11-2017 Type: пътнически
+  Ship 3
+	Name: MS Victory 974 Country: USA
+	Date Of Launch: 12-10-1939 Type: товарен
+  Ship 4
+	Name: RMS Endeavour 552 Country: UK
+	Date Of Launch: 09-03-1986 Type: пътнически
+  Ship 5
+	Name: MS Endeavour 654 Country: Japan
+	Date Of Launch: 29-07-1913 Type: товарен
+  Ship 6
+	Name: RMS Poseidon 430 Country: Russia
+	Date Of Launch: 04-06-1904 Type: товарен
+  Ship 7
+	Name: MV Oceanic 541 Country: Japan
+	Date Of Launch: 17-08-1939 Type: товарен
+  Ship 8
+	Name: MS Victory 819 Country: USA
+	Date Of Launch: 04-01-1995 Type: товарен
+  Ship 9
+	Name: MV Poseidon 741 Country: USA
+	Date Of Launch: 29-05-2021 Type: товарен
+  Ship 10
+	Name: SS Titan 481 Country: Germany
+	Date Of Launch: 25-12-2012 Type: товарен
+  Ship 11
+	Name: RMS Liberty 851 Country: Russia
+	Date Of Launch: 12-09-2007 Type: пътнически
+  Ship 12
+	Name: MS Oceanic 516 Country: Japan
+	Date Of Launch: 07-02-1915 Type: товарен
+  Ship 13
+	Name: MS Neptune 665 Country: Italy
+	Date Of Launch: 04-11-1928 Type: товарен
+  Ship 14
+	Name: MV Endeavour 714 Country: UK
+	Date Of Launch: 13-11-1919 Type: пътнически
+  Ship 15
+	Name: SS Neptune 455 Country: USA
+	Date Of Launch: 01-07-1950 Type: пътнически
+  Ship 16
+	Name: MS Sea Star 674 Country: Japan
+	Date Of Launch: 22-10-1955 Type: товарен
+  Ship 17
+	Name: HMS Oceanic 124 Country: Italy
+	Date Of Launch: 10-05-1900 Type: пътнически
+  Ship 18
+	Name: MV Neptune 440 Country: Norway
+	Date Of Launch: 20-07-1974 Type: пътнически
+  Ship 19
+	Name: MS Neptune 665 Country: Italy
+	Date Of Launch: 04-11-1928 Type: товарен
+  Ship 20
+	Name: RMS Titan 311 Country: Norway
+	Date Of Launch: 07-04-1915 Type: пътнически
+  Ship 21
+	Name: RMS Sea Star 294 Country: Norway
+	Date Of Launch: 04-07-1935 Type: пътнически
+  Ship 22
+	Name: SS Victory 476 Country: France
+	Date Of Launch: 22-04-1970 Type: пътнически
+  Ship 23
+	Name: SS Liberty 766 Country: China
+	Date Of Launch: 02-01-1930 Type: пътнически
+  Ship 24
+	Name: MV Endeavour 967 Country: Russia
+	Date Of Launch: 23-02-1940 Type: товарен
+  Ship 25
+	Name: RMS Endeavour 631 Country: China
+	Date Of Launch: 06-06-1913 Type: товарен
+
+
