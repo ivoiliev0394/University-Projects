@@ -1,0 +1,252 @@
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.exe
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.deps.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.exe
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.deps.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school2\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\8-12 klas\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\8-12 klas\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\school2\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\Admin\Desktop\school2\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.exe
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.deps.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school3\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.exe
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.deps.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school4\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.exe
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.deps.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form3.resources
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.dll
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.pdb
+D:\SCHOOL\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.exe
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.deps.json
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.pdb
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form3.resources
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.Up2Date
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.dll
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.pdb
+E:\New folder\iCloudDrive\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\12kl\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form3.resources
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.Up2Date
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.exe
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.deps.json
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\School.pdb
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.AssemblyReference.cache
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form1.resources
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form2.resources
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form3.resources
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.GenerateResource.cache
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.csproj.Up2Date
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.dll
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.pdb
+F:\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form4.resources
+C:\Users\iwail\Desktop\SQL+VS\school5\School\obj\Debug\netcoreapp3.1\School.Form5.resources
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\ClosedXML.Parser.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.Framework.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\RBush.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\iwail\Desktop\SQL+VS\school5\School\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll

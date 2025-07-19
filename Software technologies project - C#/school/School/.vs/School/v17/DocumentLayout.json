@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\utilities\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:utilities\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|c:\\users\\iwail\\desktop\\software technologies project - c#\\school\\school\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C50EAB-366A-414D-AA8A-8A9F364DE886}|School.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Utilities\\Messages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Utilities\\Messages.cs",
+              "RelativeToolTip": "Utilities\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:25:21.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwPgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:40.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\SQL\u002BVS\\school5\\School\\Form5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\SQL\u002BVS\\school5\\School\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:38.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAArwDABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\SQL\u002BVS\\school5\\School\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\SQL\u002BVS\\school5\\School\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:34.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAIA8wDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\SQL\u002BVS\\school5\\School\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\SQL\u002BVS\\school5\\School\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAvwEwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:17:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\SQL\u002BVS\\school5\\School\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\SQL\u002BVS\\school5\\School\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:16:57.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:43:53.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\iwail\\Desktop\\Software technologies project - C#\\school\\School\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:35:21.464Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
